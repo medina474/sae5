@@ -20,6 +20,8 @@ le code sql puis
 
 supabase migration up
 
+supabase db push --db-url postgresql://postgres:your-super-secret-and-long-postgres-password@localhost:5432/postgres
+
 # Hosting
 
 ## Supabase
