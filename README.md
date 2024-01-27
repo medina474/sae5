@@ -1,4 +1,4 @@
-# Backend
+# Développement
 
 ## Supabase
 
@@ -22,7 +22,7 @@ supabase migration up
 
 supabase db push --db-url postgresql://postgres:your-super-secret-and-long-postgres-password@localhost:5432/postgres
 
-# Hosting
+# Recette
 
 ## Supabase
 
@@ -73,3 +73,5 @@ docker compose up -d
 créer un fichier compose.override.yml
 
 docker compose restart
+
+# Production
