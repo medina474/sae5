@@ -5,20 +5,23 @@
 https://supabase.com/docs/guides/cli/getting-started
 https://medium.com/@igor.mytyuk/supabase-self-hosted-deploy-475718fe906f
 
-```
+```shell-session
 git init
 supabase init
-```
-
 supabase start
+```
 
 http://localhost:54323/
 
+```shell-session
 supabase migration new jardins
+```
 
 le code sql puis
 
+```shell-session
 supabase migration up
+```
 
 supabase db push --db-url postgresql://postgres:your-super-secret-and-long-postgres-password@localhost:5432/postgres
 
@@ -75,3 +78,10 @@ créer un fichier compose.override.yml
 docker compose restart
 
 # Production
+
+https://supabase.com/docs/guides/cli/managing-environments
+
+```shell-session
+supabase login
+supabase link --project-ref $PROJECT_ID
+```
