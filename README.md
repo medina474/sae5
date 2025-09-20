@@ -62,3 +62,16 @@ Contraintes : Répertorier des acteurs locaux non français, anglophones de pr�
 - **Correctrice :** Aline Caspary
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	7 / 50 (3.5 / 50 pour l’écrit - 3.5 / 50 pour l’oral)
+
+### Rendu 2
+
+### Rendu 3 : Cahier des charges technique
+
+Établir un document détaillant les solutions techniques que vous avez retenues pour répondre au besoin du client. Quelle architecture ? Base de données ? Support des applications ? Langage de développement ? Cadriciels utilisés ?
+
+Contraintes : Présentation sous forme d’un diaporama visuellement riche avec des schémas de l’organisation et du fonctionnement.
+
+- **Étudiants concernés :** tous
+- **Correcteur :** Emmanuel Medina
+- **Compétence :** 6 - Collaborer
+- **Coefficients :** 	7 / 50
