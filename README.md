@@ -49,3 +49,16 @@ Formation initiale | Insertion professionnelle | 180 | 20
 Formation initiale | Poursuite d'études        | 130 | 70
 Apprentissage      | Insertion professionnelle | 80  | 10
 Apprentissage      | Poursuite d'études        | 55  | 35
+
+## Rendus
+
+### Rendu 1 : Analyse comparative
+
+Faire une analyse comparative et prospective du secteur des Jardins de Cocagne. Rendre un rapport en **anglais*/ de 6 / 7 pages présentant les différents acteurs et en conclusion un tableau comparatifs des plus et des moins de chaque acteur.
+
+Contraintes : Répertorier des acteurs locaux non français, anglophones de préférence.
+
+- **Étudiants concernés :** tous
+- **Correctrice :** Aline Caspary
+- **Compétence :** 6 - Collaborer
+- **Coefficients :** 	7 / 50 (3.5 / 50 pour l’écrit - 3.5 / 50 pour l’oral)
