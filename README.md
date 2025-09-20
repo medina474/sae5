@@ -75,3 +75,15 @@ Contraintes : Présentation sous forme d’un diaporama visuellement riche avec
 - **Correcteur :** Emmanuel Medina
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	7 / 50
+
+### Rendu 4 : Proposition financière
+
+Établir un **devis chiffré** de la solution. Le devis sera détaillé de telle façon que le client soit en mesure d'évaluer chaque partie : étude, réalisation, modules complémentaires, infrastructure, matériel, installation, prise en main, formation ...
+Garder à l’esprit l’hypothèse de fonctionnement de la SAÉ
+
+Contraintes : Mise en place d’outil de gestion de projet permettant de quantifier le temps passé.
+
+- **Étudiants concernés :** tous
+- **Correcteur :** Boris Davin
+- **Compétence :** 6 - Collaborer
+- **Coefficients :** 	7 / 50
