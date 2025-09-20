@@ -11,21 +11,21 @@ Cette SAÉ permet, après avoir collecté et formalisé les besoins d’un clien
 
 L’application devra utiliser des API complexes (framework, ...), interroger une base de données et s’appuyer sur un serveur.
 
-### Compétences ciblées
+## Compétences ciblées
 
 - Développer — c’est-à-dire concevoir, coder, tester et intégrer — une solution informatique pour un client.
 - Proposer des applications informatiques optimisées en fonction de critères spécifiques : temps d’exécution, précision,
 consommation de ressources..
 - Acquérir, développer et exploiter les aptitudes nécessaires pour travailler efficacement dans une équipe informatique
 
-#### Compétence 1
+### Compétence 1
 
 Adapter des applications sur un ensemble de supports (embarqué, web, mobile, IoT…)
 
 - AC31.01 Choisir et implémenter les architectures adaptées
 - AC31.03 Intégrer des solutions dans un environnement de production
 
-#### Compétence 2
+### Compétence 2
 
 Analyser et optimiser des applications
 
@@ -33,7 +33,7 @@ Analyser et optimiser des applications
 - AC32.03 Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d’application (imagerie, immersion,
 intelligence artificielle, jeux vidéos, parallélisme, calcul formel...)
 
-#### Compétence 6
+### Compétence 6
 
 Manager une équipe informatique
 
@@ -41,7 +41,7 @@ Manager une équipe informatique
 
 [Présentation et cahier des charges](../../../wiki/)
 
-### Volume horaire
+## Volume horaire
 
 Situation|Parcours|saé dev|saé math
 ---|---|--:|--:
