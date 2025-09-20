@@ -39,8 +39,6 @@ Manager une équipe informatique
 
 - AC36.01 Organiser et partager une veille technologique et informationnelle
 
-[Présentation et cahier des charges](../../../wiki/)
-
 ## Volume horaire
 
 Situation|Parcours|saé dev|saé math
@@ -87,3 +85,8 @@ Contraintes : Mise en place d’outil de gestion de projet permettant de quanti
 - **Correcteur :** Boris Davin
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	7 / 50
+
+## Énoncé
+
+- [Contexte et cadre du projet](../../../wiki/contexte)
+- [Cahier des charges](../../../wiki/)
