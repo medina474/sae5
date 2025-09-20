@@ -13,10 +13,10 @@ L’application devra utiliser des API complexes (framework, ...), interroger un
 
 ### Compétences ciblées
 
-– Développer — c’est-à-dire concevoir, coder, tester et intégrer — une solution informatique pour un client.
-– Proposer des applications informatiques optimisées en fonction de critères spécifiques : temps d’exécution, précision,
+- Développer — c’est-à-dire concevoir, coder, tester et intégrer — une solution informatique pour un client.
+- Proposer des applications informatiques optimisées en fonction de critères spécifiques : temps d’exécution, précision,
 consommation de ressources..
-– Acquérir, développer et exploiter les aptitudes nécessaires pour travailler efficacement dans une équipe informatique
+- Acquérir, développer et exploiter les aptitudes nécessaires pour travailler efficacement dans une équipe informatique
 
 #### Compétence 1
 
@@ -40,3 +40,12 @@ Manager une équipe informatique
 - AC36.01 Organiser et partager une veille technologique et informationnelle
 
 [Présentation et cahier des charges](../../../wiki/)
+
+### Volume horaire
+
+Situation|Parcours|saé dev|saé math
+---|---|--:|--:
+Formation initiale | Insertion professionnelle | 180 | 20
+Formation initiale | Poursuite d'études        | 130 | 70
+Apprentissage      | Insertion professionnelle | 80  | 10
+Apprentissage      | Poursuite d'études        | 55  | 35
