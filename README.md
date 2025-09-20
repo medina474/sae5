@@ -3,28 +3,40 @@
 > [!NOTE]
 > **Objectif :** La problématique professionnelle est de créer, en équipe, une application en suivant une démarche itérative ou incrémentale, avec une intégration continue de l'application.
 
-Le développement de l'application devra utiliser des technologies avancées et s'inscrire dans une démarche d'amélioration continue. En partant d'un besoin décrit de manière imprécise ou **incomplète** par un client, l'objectif est de clarifier ou compléter, collecter et formaliser le besoin puis de développer une application communicante intégrant la manipulation des données et respectant les paradigmes de qualité (ergonomie des IHM, qualité logicielle…).
+Le développement de l'application devra utiliser des technologies avancées et s'inscrire dans une démarche d'amélioration continue. En partant d'un besoin décrit de manière imprécise ou **incomplète** par un client, l'objectif est de clarifier ou compléter, collecter et formaliser le besoin puis de développer une **application communicante** intégrant la **manipulation des données** et respectant les paradigmes de qualité (ergonomie des IHM, qualité logicielle…).
 
-### Compétences
+### Descriptif
+
+Cette SAÉ permet, après avoir collecté et formalisé les besoins d’un client, de développer une application complexe, en respectant les paradigmes de qualité et en s’inscrivant dans une démarche d’amélioration continue.
+
+L’application devra utiliser des API complexes (framework, ...), interroger une base de données et s’appuyer sur un serveur.
+
+### Compétences ciblées
+
+– Développer — c’est-à-dire concevoir, coder, tester et intégrer — une solution informatique pour un client.
+– Proposer des applications informatiques optimisées en fonction de critères spécifiques : temps d’exécution, précision,
+consommation de ressources..
+– Acquérir, développer et exploiter les aptitudes nécessaires pour travailler efficacement dans une équipe informatique
 
 #### Compétence 1
 
 Adapter des applications sur un ensemble de supports (embarqué, web, mobile, IoT…)
 
-- AC 1 Choisir et implémenter les architectures adaptées
-- AC 3 Intégrer des solutions dans un environnement de production
+- AC31.01 Choisir et implémenter les architectures adaptées
+- AC31.03 Intégrer des solutions dans un environnement de production
 
 #### Compétence 2
 
 Analyser et optimiser des applications
 
-- AC 1 Anticiper les résultats de diverses métriques (temps d'exécution, occupation mémoire…)
-- AC 3 Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d'application (imagerie, immersion, intelligence artificielle, jeux vidéos, parallélisme, calcul formel…)
+- AC32.01 Anticiper les résultats de diverses métriques (temps d’exécution, occupation mémoire, montée en charge...)
+- AC32.03 Choisir et utiliser des bibliothèques et méthodes dédiées au domaine d’application (imagerie, immersion,
+intelligence artificielle, jeux vidéos, parallélisme, calcul formel...)
 
 #### Compétence 6
 
 Manager une équipe informatique
 
-- AC 1 Organiser et partager une veille numérique
+- AC36.01 Organiser et partager une veille technologique et informationnelle
 
-[Présentation et cahier des charges](wiki)
+[Présentation et cahier des charges](../../../wiki/)
