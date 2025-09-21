@@ -310,8 +310,8 @@ ___
 </tr>
 <tr><td>7</td><td>Environnement de développement</td>
   <td></td><td></td><td></td><td></td>
-  <td>18</td><td>18</td><td>18</td><td>18</td>
   <td></td><td></td><td></td><td></td>
+  <td>18</td><td>18</td><td>18</td><td>18</td>
 </tr>
 <tr><td>8</td><td>Web Service</td>
   <td></td><td></td><td></td><td></td>
