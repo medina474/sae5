@@ -18,6 +18,7 @@ Dans les années 2000, un logiciel dit de « gestion des adhérents » a été c
 
 Cet outil était encore utilisé en juin 2016 par 65% des Jardins de Cocagne. Il répond assez bien aux besoins de base en termes de gestion d'abonnement aux paniers, mais les formules commerciales et le contexte ont fortement évolué, nécessitant à présent une modernisation de l'outil (internet, automatisation des processus, ouverture des modes de ventes).
 
+> [!NOTE]
 > A ce jour 75% des Jardins de Cocagne ont manifesté un **besoin urgent** de développer un nouvel outil de gestion commerciale.
 
 ### Quelques caractéristiques attendues du futur logiciel
