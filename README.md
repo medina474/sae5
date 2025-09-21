@@ -224,9 +224,24 @@ Concevoir l’interface permettant de créer les tournées de livraison. Sur une
 
 ___
 
-### Rendu 18 :
+### Rendu 18 : Tests / Profilage / Mesures
 
-### Rendu 19 :
+Étudiants concernés : formation initiale parcours insertion professionnelle
+
+- **Correcteur :** Olivier Caspary
+- **Compétence :** 2 - Optimiser
+- **Coefficients :** 11/50
+
+### Rendu 19 : Apprentissage
+
+- **Étudiants concernés :** apprentis
+- **Correcteurs :** jury de stage
+
+Compétence : 1 - Réaliser
+- **Coefficients :** Insertion professionnelle 38/50 ; poursuite d’études 33/50
+
+Compétence : 2 - Optimiser
+- **Coefficients :**  Insertion professionnelle 12/50 ; poursuite d’études 17/50
 
 ## Coefficients
 
@@ -276,6 +291,16 @@ ___
 <tr><td>10</td><td>Programmation multimédia</td>
   <td>5</td><td>3</td><td>6</td><td>2</td>
   <td></td><td></td><td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>18</td><td>Tests</td>
+  <td></td><td></td><td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>19</td><td>Apprentissage</td>
+  <td></td><td></td><td>38</td><td>33</td>
+  <td>11</td><td></td><td>12</td><td>17</td>
   <td></td><td></td><td></td><td></td>
 </tr>
 </table>
