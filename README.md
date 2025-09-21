@@ -218,9 +218,33 @@ Concevoir l’interface permettant de créer les tournées de livraison. Sur une
 - **Compétence :** 1 - Réaliser
 - **Coefficients :** 12/50
 
-### Rendu 16 :
+### Rendu 16 : Développement Back
 
-### Rendu 17 :
+#### Sujet A
+
+Concevoir l’interface permettant de spécifier les calendriers de livraison en fonction de la tournée et des fréquences.
+
+- **Étudiants concernés :** formation initiale parcours insertion professionnelle
+
+#### Sujet B
+
+Conception d’un outil permettant de créer la composition des paniers. Il existe plusieurs types de paniers. Chaque mois les jardins possède un stock de légumes. Il faut répartir
+Les légumes dans les paniers de façon à écouler le stock au mieux tout en garantissant la valeur du panier.
+
+- **Étudiants concernés :** formation initiale parcours poursuite d’études
+
+- **Correcteur :** Emmanuel Medina
+- **Compétence :** 1 - Réaliser
+- **Coefficients :** 12/50
+
+### Rendu 17 : Développement Front Office
+
+Concevoir le tunnel de commande  permettant à un adhérent de choisir un abonnement, un dépôt et les dates souhaitées de livraison
+
+- **Étudiants concernés :** formation initiale parcours insertion professionnelle
+- **Correcteur :** Emmanuel Medina
+- **Compétence :** 1 - Réaliser
+- **Coefficients :** 16/50
 
 ___
 
@@ -295,12 +319,12 @@ Compétence : 2 - Optimiser
 </tr>
 <tr><td>18</td><td>Tests</td>
   <td></td><td></td><td></td><td></td>
-  <td></td><td></td><td></td><td></td>
+  <td>11</td><td></td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
 </tr>
 <tr><td>19</td><td>Apprentissage</td>
   <td></td><td></td><td>38</td><td>33</td>
-  <td>11</td><td></td><td>12</td><td>17</td>
+  <td></td><td></td><td>12</td><td>17</td>
   <td></td><td></td><td></td><td></td>
 </tr>
 </table>
