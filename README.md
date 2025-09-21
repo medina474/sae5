@@ -87,6 +87,7 @@ Contraintes : Présentation sous forme d’un diaporama visuellement riche avec
 - **Correcteur :** Emmanuel Medina
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	7 / 50
+- **Date de rendu:** 15/10/2025
 
 ### Rendu 4 : Proposition financière
 
