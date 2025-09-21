@@ -211,7 +211,7 @@ Concevoir l’interface permettant de créer les tournées de livraison. Sur une
 - **Compétence :** 1 - Réaliser
 - **Coefficients :** 12/50
 
-### Rendu 16 : Développement Back
+### Rendu 16 : Développement Back-office 2
 
 #### Sujet A
 
@@ -329,7 +329,7 @@ ___
   <td></td><td></td><td></td><td></td>
 </tr>
 <tr><td>11</td><td>Compléments d’algèbre linéaire et d'analyse</td>
-  <td>19</td><td>19</td><td>13</td><td>13</td>
+  <td></td><td>19</td><td></td><td>13</td>
   <td></td><td></td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
 </tr>
@@ -353,12 +353,12 @@ ___
   <td></td><td></td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
 </tr>
-<tr><td>16</td><td></td>
+<tr><td>16</td><td>Développement Back-office 2</td>
   <td>12</td><td>12</td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
 </tr>
-<tr><td>17</td><td></td>
+<tr><td>17</td><td>Développement Front Office</td>
   <td>16</td><td></td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
