@@ -345,7 +345,7 @@ ___
 </tr>
 <tr><td>14</td><td>Compléments de probabilités et statistique</td>
   <td></td><td></td><td></td><td></td>
-  <td>17</td><td>17</td><td>13</td><td>13</td>
+  <td></td><td>17</td><td></td><td>13</td>
   <td></td><td></td><td></td><td></td>
 </tr>
 <tr><td>15</td><td> Développement Back-office 1</td>
