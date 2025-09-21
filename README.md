@@ -283,6 +283,11 @@ ___
   <td></td><td></td><td></td><td></td>
   <td>7</td><td>7</td><td>7</td><td>7</td>
 </tr>
+<tr><td>2</td><td>Cahier des charges fonctionnels</td>
+  <td></td><td></td><td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+  <td>8</td><td>8</td><td>8</td><td>8</td>
+</tr>
 <tr><td>3</td><td>Cahier des charges technique</td>
   <td></td><td></td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
@@ -293,10 +298,25 @@ ___
   <td></td><td></td><td></td><td></td>
   <td>7</td><td>7</td><td>7</td><td>7</td>
 </tr>
-<tr><td>4</td><td>Gestion de projet</td>
+<tr><td>5</td><td>Gestion de projet</td>
   <td></td><td></td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
   <td>3</td><td>3</td><td>3</td><td>3</td>
+</tr>
+<tr><td>6</td><td>Base de données</td>
+  <td></td><td></td><td></td><td></td>
+  <td>9</td><td>6</td><td>10</td><td>9</td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>7</td><td>Environnement de développement</td>
+  <td></td><td></td><td></td><td></td>
+  <td>18</td><td>18</td><td>18</td><td>18</td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>8</td><td>Web Service</td>
+  <td></td><td></td><td></td><td></td>
+  <td>15</td><td>12</td><td>17</td><td></td>
+  <td></td><td></td><td></td><td></td>
 </tr>
 <tr><td>9</td><td>Programmation avancée</td>
   <td>5</td><td>4</td><td>6</td><td>2</td>
@@ -305,6 +325,41 @@ ___
 </tr>
 <tr><td>10</td><td>Programmation multimédia</td>
   <td>5</td><td>3</td><td>6</td><td>2</td>
+  <td></td><td></td><td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>11</td><td>Compléments d’algèbre linéaire et d'analyse</td>
+  <td>19</td><td>19</td><td>13</td><td>13</td>
+  <td></td><td></td><td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>12</td><td>Méthodes d'optimisation pour l'aide à la décision</td>
+  <td></td><td></td><td></td><td></td>
+  <td>6</td><td>5</td><td>3</td><td>3</td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>13</td><td>Modélisations mathématiques</td>
+  <td></td><td></td><td></td><td></td>
+  <td>9</td><td>10</td><td>8</td><td>8</td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>14</td><td>Compléments de probabilités et statistique</td>
+  <td></td><td></td><td></td><td></td>
+  <td>17</td><td>17</td><td>13</td><td>13</td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>15</td><td> Développement Back-office 1</td>
+  <td>12</td><td>12</td><td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>16</td><td></td>
+  <td>12</td><td>12</td><td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+<tr><td>17</td><td></td>
+  <td>16</td><td></td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
   <td></td><td></td><td></td><td></td>
 </tr>
