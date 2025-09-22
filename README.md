@@ -74,13 +74,13 @@ Contraintes : Présentation sous forme d'un diaporama visuellement riche avec d
 
 Établir un document détaillant les solutions techniques que vous avez retenues pour répondre au besoin du client. Quelle architecture ? Base de données ? Support des applications ? Langage de développement ? Cadriciels utilisés ?
 
-Contraintes : Présentation sous forme d'un diaporama visuellement riche avec des schémas de l'organisation et du fonctionnement.
+Contraintes : Présentation sous forme d'un **diaporama visuellement riche** avec des schémas de l'organisation et du fonctionnement.
 
 - **Étudiants concernés :** tous
 - **Correcteur :** Emmanuel Medina
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	7 / 50
-- **Date de rendu:** 15/10/2025
+- **Date de rendu:** [15/10/2025](https://arche.univ-lorraine.fr/mod/assign/view.php?id=1720363)
 
 ### Rendu 4 : Proposition financière
 
