@@ -235,3 +235,18 @@ L'abonnement est lié à une période déterminée.
 La structure définit la période type de l'abonnement grâce à des calendriers (ex : sur l'année civile, par trimestre, de Mai à Octobre. ..). Tout abonnement pris est paramétré jusqu'à la fin de la période. Un abonnement peut être démarré en cours de période et va jusqu'à la fin de la période, un calcul est donc fait sur le nombre de produits restant à recevoir d'ici la fin de la période.
 
 ### 9.2 Fréquence
+
+Un abonnement lie un produit et une fréquence de livraison.
+
+id|panier
+--:|---
+1|Panier simple hebdomadaire
+2|Panier simple 15 jours
+3|Panier simple mensuel
+4|Panier familial hebdomadaire
+5|Panier familial 15 jours
+6|Panier familial mensuel
+
+## 10 Calendrier
+
+Chaque fréquence de livraison possède un calendrier de livraison dépendant de la tournée

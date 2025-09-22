@@ -221,8 +221,7 @@ Concevoir l’interface permettant de spécifier les calendriers de livraison en
 
 #### Sujet B
 
-Conception d’un outil permettant de créer la composition des paniers. Il existe plusieurs types de paniers. Chaque mois les jardins possède un stock de légumes. Il faut répartir
-Les légumes dans les paniers de façon à écouler le stock au mieux tout en garantissant la valeur du panier.
+Conception d’un outil permettant de créer la composition des paniers. Il existe plusieurs types de paniers. Chaque mois les jardins possède un stock de légumes. Il faut répartir les légumes dans les paniers de façon à écouler le stock au mieux tout en garantissant la valeur du panier.
 
 - **Étudiants concernés :** formation initiale parcours poursuite d’études
 
@@ -243,8 +242,7 @@ ___
 
 ### Rendu 18 : Tests / Profilage / Mesures
 
-Étudiants concernés : formation initiale parcours insertion professionnelle
-
+- **Étudiants concernés :** formation initiale parcours insertion professionnelle
 - **Correcteur :** Olivier Caspary
 - **Compétence :** 2 - Optimiser
 - **Coefficients :** 11/50
