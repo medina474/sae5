@@ -24,18 +24,18 @@ Ce document représente un cahier des charges pour la réalisation du futur logi
 
 Il doit servir de base à la rédaction d'une proposition **technique** et **financière** de développement et de déploiement de ce logiciel.
 
-Ce projet doit répondre à 2 enjeux majeurs pour le Réseau et les Jardins de Cocagne.
+Ce projet doit répondre à 2 enjeux majeurs pour le Réseau et les Jardins de Cocagne :
 
-- doter les jardins de cocagne d'un outil qui favorise le développement de leur activité économique mais aussi à terme les relations avec leur communauté d'adhérents et de partenaires économiques,
-- constituer un projet co-pensé et co-construit par les jardins de cocagne et non pensé par la tête de réseau au bénéfice de ses membres.
+- Doter les jardins de cocagne d'un outil qui favorise le développement de leur activité économique mais aussi à terme les relations avec leur communauté d'adhérents et de partenaires économiques,
+- Constituer un projet co-pensé et co-construit par les jardins de cocagne et non pensé par la tête de réseau au bénéfice de ses membres.
 
 ## 1. Structure
 
 Un module de paramétrage initial doit permettre de saisir les données de la structure utilisatrice :
 
-- Logo de la structure
 - Nom commercial
 - Raison sociale
+- Logo de la structure
 - Siège social
 - Adresse de gestion
 - Coordonnées commerciales : téléphone, mail, nom éventuel de la personne de contact, site web
@@ -63,9 +63,9 @@ La saison représente la période de référence pour la vie de l’association 
 
 Chaque saison est caractérisée par :
 
-* une **date de début** et une **date de fin** (qui peuvent différer de l’année civile),
-* la possibilité d’indiquer des **semaines de fermeture** ou **jours fériés** sans activité,
-* un **libellé** permettant d’identifier facilement la saison (ex. : « Saison 2025 », « Printemps–Hiver 2026 », etc.).
+- une **date de début** et une **date de fin** (qui peuvent différer de l’année civile),
+- la possibilité d’indiquer des **semaines de fermeture** ou des **jours fériés** sans activité,
+- un **libellé** permettant d’identifier facilement la saison (ex. : « Saison 2025 », « Printemps–Hiver 2026 », etc.).
 
 La gestion multi-saisons doit être possible afin de conserver l’historique et de préparer la saison suivante tout en clôturant la précédente.
 
@@ -88,10 +88,10 @@ Une fiche point de dépôt comprend :
 
 - N° identifiant créé automatiquement (numéro unique, non modifiable)
 - Identifiant de tournée et no d'ordre de livraison dans la tournée (cf. « [Tournée de livraison](#5-tournées-de-livraison) »).
-- Nom du point de dépôt, adresse, code postal, ville, no de téléphone n° obligatoire pour l'enregistrement de la fiche
+- Nom du point de dépôt, adresse, code postal, ville, n° de téléphone (obligatoire pour l'enregistrement de la fiche)
 - Mail générique de la structure, site web de la structure (facultatif)
 - Nom de la personne référente + mail + téléphone spécifique de la personne référente
-- On doit pouvoir préciser le jour de livraison de ce point de dépôt (incidence sur la commande et la feuille de route), le créneau horaire de livraison (information interne) et les créneaux horaires de récupération des paniers (apparaîtront en front office).
+- On doit pouvoir préciser les jours de livraison de ce point de dépôt (incidence sur la commande et la feuille de route), le créneau horaire de livraison (information interne) et les créneaux horaires de récupération des paniers (apparaîtront en front office).
 - Une zone de texte libre de présentation du lieu et le téléchargement possible d'une photo ou image du lieu.
 - Prévoir une case de texte libre pour noter des commentaires.
 
