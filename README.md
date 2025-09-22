@@ -231,7 +231,7 @@ Conception d’un outil permettant de créer la composition des paniers. Il exis
 
 ### Rendu 17 : Développement Front Office
 
-Concevoir le tunnel de commande  permettant à un adhérent de choisir un abonnement, un dépôt et les dates souhaitées de livraison
+Concevoir la partie font office de l'application c'est à dire l'inscription des adhérents et le tunnel de commande  permettant à un adhérent de choisir un abonnement et son point de dépôt.
 
 - **Étudiants concernés :** formation initiale parcours insertion professionnelle
 - **Correcteur :** Emmanuel Medina
