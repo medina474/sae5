@@ -249,4 +249,8 @@ id|panier
 
 ## 10 Calendrier
 
-Chaque fréquence de livraison possède un calendrier de livraison dépendant de la tournée
+Un calendrier défini les jours de livraison, il respecte les contrainte de fermetures du jardin et les jours fériés.
+
+Le calendrier est défini pour une fréquence donnée. les calendiers des abonnements quinzomadaire (tous les 15 jours) défini les jours de livraison.
+
+Une tournée est affecté à un calendrier.

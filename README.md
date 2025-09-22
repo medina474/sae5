@@ -47,7 +47,7 @@ Apprentissage      | Poursuite d'études        | 55  | 35
 
 ### Rendu 1 : Analyse comparative
 
-Faire une analyse comparative et prospective du secteur des Jardins de Cocagne. Rendre un rapport en **anglais*/ de 6 / 7 pages présentant les différents acteurs et en conclusion un tableau comparatifs des plus et des moins de chaque acteur.
+Faire une analyse comparative et prospective du secteur des Jardins de Cocagne. Rendre un rapport en **anglais* de 6/7 pages présentant les différents acteurs et en conclusion un tableau comparatifs des plus et des moins de chaque acteur.
 
 Contraintes : Répertorier des acteurs locaux non français, anglophones de préférence.
 
