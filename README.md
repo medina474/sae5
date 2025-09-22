@@ -74,6 +74,8 @@ Contraintes : Présentation sous forme d'un diaporama visuellement riche avec d
 
 Établir un document détaillant les solutions techniques que vous avez retenues pour répondre au besoin du client. Quelle architecture ? Base de données ? Support des applications ? Langage de développement ? Cadriciels utilisés ?
 
+Ne pas oublier : la solution pour la carte, l'itinéraire et le calendrier
+
 Contraintes : Présentation sous forme d'un **diaporama visuellement riche** avec des schémas de l'organisation et du fonctionnement.
 
 - **Étudiants concernés :** tous
@@ -377,3 +379,62 @@ ___
 
 - [Contexte et cadre du projet](Contexte.md)
 - [Cahier des charges](Specifications.md)
+
+## Groupes
+
+### Insertion Professionnelle
+
+<table>
+<tr><td>
+PHILIPPON-CHAMPROUX Florentin<br>
+RATTI Martin</td><td>https://github.com/flo0s/Cocagne</td></tr>
+<tr><td>MATEJKA Milan<br>
+MAURICE Simon</td></tr>
+<tr><td>ALVARIZA BILLAR Felipe<br>
+KANY Thomas</td><td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne</td></tr>
+<tr><td>DUBREUIL Eliot<br>
+ERRAES Mehdi</td><td>https://gitlab.univ-lorraine.fr/erraes5u/sae-5</td></tr>
+<tr><td>MEHIAOUI Mohamed<br>
+MERIMI	Ayat</td><td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne</td></tr>
+<tr><td>HERRY Elwyn<br>
+HERRY	Matteo</td><td>https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5</td></tr>
+</table>
+
+### Poursuite d'études (4 groupes)
+
+<table>
+<tr><td>
+GAILLIEGUE Ewan <br>
+VINCENT Teo</td><td>https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne</td></tr>
+<tr><td>MEHRAZ Chayimaa<br>
+RIFI 	ZAYNAB </td><td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ</td></tr>
+<tr><td>ALGUL Sefer<br>
+GRANDGIRARD Louis</td><td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5</td></tr>
+<tr><td>COGNET Mattheo<br>
+BECERRA BARBA Erik</td><td>https://github.com/MattheoCo/JardinDeCocagne</td></tr>
+</table>
+
+### Apprentis Insertion professionnelle (2 groupes)
+
+<table>
+<tr><td>COLIN Gabin<br>
+DE RYCKE Leanne</td></tr>
+<tr><td>DESERT Romain<br>
+NIRRENGARTEN Tom</td><td>https://github.com/Rom444d/SAE-5</td></tr>
+</table>
+
+### Apprentis Poursuite d'Études (3 groupes)
+
+<table>
+<tr><td>
+GIL Jérémie<br>
+PETRAZOLLER Johan</td></tr>
+<tr><td>
+NGUYEN Quang-Liem<br>
+RALLI	Clément</td></tr>
+<tr><td>
+DUFOUR Louise<br>
+MARTIN Mathis</td></tr>
+<tr><td>
+ROBAIL Alexandre</td></tr>
+</table>
