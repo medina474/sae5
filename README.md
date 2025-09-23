@@ -55,6 +55,7 @@ Contraintes : Répertorier des acteurs locaux non français, anglophones de pr�
 - **Correctrice :** Aline Caspary
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	7 / 50 (3.5 / 50 pour l'écrit - 3.5 / 50 pour l'oral)
+- **Date de rendu:** [16/09/2025](https://arche.univ-lorraine.fr/mod/assign/view.php?id=1622610)
 
 ### Rendu 2 : Cahier des charges fonctionnels
 
@@ -263,14 +264,14 @@ ___
 <table>
 <tr>
   <td>N°</td><td>Compétences</td>
-  <td colspan="4">Compétence 1</td>
-  <td colspan="4">Compétence 2</td>
-  <td colspan="4">Compétence 6</td>
+  <td colspan="4" text-align="center">Compétence 1 (50)</td>
+  <td colspan="4" text-align="center">Compétence 2 (50)</td>
+  <td colspan="4" text-align="center">Compétence 6 (50)</td>
 </tr>
 <tr><td></td><td>Situation</td>
-  <td colspan="2">FI</td><td colspan="2">App</td>
-  <td colspan="2">FI</td><td colspan="2">App</td>
-  <td colspan="2">FI</td><td colspan="2">App</td>
+  <td colspan="2" text-align="center">FI</td><td colspan="2" text-align="center">App</td>
+  <td colspan="2" text-align="center">FI</td><td colspan="2" text-align="center">App</td>
+  <td colspan="2" text-align="center">FI</td><td colspan="2" text-align="center">App</td>
 </tr>
 <tr>
   <td>N°</td><td>Rendu</td>
@@ -382,14 +383,14 @@ ___
 
 ## Groupes
 
-### Insertion Professionnelle
+### Insertion Professionnelle (6 groupes)
 
 <table>
 <tr><td>
 PHILIPPON-CHAMPROUX Florentin<br>
 RATTI Martin</td><td>https://github.com/flo0s/Cocagne</td></tr>
 <tr><td>MATEJKA Milan<br>
-MAURICE Simon</td></tr>
+MAURICE Simon</td><td>https://github.com/VoidOma/SAE5_Developpement_avance</td></tr>
 <tr><td>ALVARIZA BILLAR Felipe<br>
 KANY Thomas</td><td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne</td></tr>
 <tr><td>DUBREUIL Eliot<br>
@@ -411,7 +412,7 @@ RIFI 	ZAYNAB </td><td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ</td></tr>
 <tr><td>ALGUL Sefer<br>
 GRANDGIRARD Louis</td><td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5</td></tr>
 <tr><td>COGNET Mattheo<br>
-BECERRA BARBA Erik</td><td>https://github.com/MattheoCo/JardinDeCocagne</td></tr>
+BECERRA BARBA Erik <sup>*</sup></td><td>https://github.com/MattheoCo/JardinDeCocagne</td></tr>
 </table>
 
 ### Apprentis Insertion professionnelle (2 groupes)
@@ -423,7 +424,7 @@ DE RYCKE Leanne</td></tr>
 NIRRENGARTEN Tom</td><td>https://github.com/Rom444d/SAE-5</td></tr>
 </table>
 
-### Apprentis Poursuite d'Études (3 groupes)
+### Apprentis Poursuite d'Études (4 groupes)
 
 <table>
 <tr><td>
