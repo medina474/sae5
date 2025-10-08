@@ -388,7 +388,8 @@ ___
 <table>
 <tr><td>
 PHILIPPON-CHAMPROUX Florentin<br>
-RATTI Martin</td><td>https://github.com/flo0s/Cocagne</td></tr>
+RATTI Martin</td><td>https://github.com/flo0s/Cocagne
+étape 1 :  ✅</td></tr>
 <tr><td>MATEJKA Milan<br>
 MAURICE Simon</td><td>https://github.com/VoidOma/SAE5_Developpement_avance</td></tr>
 <tr><td>ALVARIZA BILLAR Felipe<br>
@@ -412,7 +413,7 @@ RIFI 	ZAYNAB </td><td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ</td></tr>
 <tr><td>ALGUL Sefer<br>
 GRANDGIRARD Louis</td><td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5</td></tr>
 <tr><td>COGNET Mattheo<br>
-BECERRA BARBA Erik <sup>*</sup></td><td>https://github.com/MattheoCo/JardinDeCocagne</td></tr>
+BECERRA BARBA Erik <sup>(IP)</sup></td><td>https://github.com/MattheoCo/JardinDeCocagne</td></tr>
 </table>
 
 ### Apprentis Insertion professionnelle (2 groupes)
@@ -434,7 +435,7 @@ PETRAZOLLER Johan</td></tr>
 NGUYEN Quang-Liem<br>
 RALLI	Clément</td></tr>
 <tr><td>
-DUFOUR Louise<br>
+DUFOUR Louise<sup>(*)</sup><br>
 MARTIN Mathis</td></tr>
 <tr><td>
 ROBAIL Alexandre</td></tr>
