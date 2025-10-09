@@ -389,31 +389,54 @@ ___
 <tr><td>
 PHILIPPON-CHAMPROUX Florentin<br>
 RATTI Martin</td><td>https://github.com/flo0s/Cocagne
-étape 1 :  ✅</td></tr>
-<tr><td>MATEJKA Milan<br>
-MAURICE Simon</td><td>https://github.com/VoidOma/SAE5_Developpement_avance</td></tr>
-<tr><td>ALVARIZA BILLAR Felipe<br>
-KANY Thomas</td><td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne</td></tr>
-<tr><td>DUBREUIL Eliot<br>
-ERRAES Mehdi</td><td>https://gitlab.univ-lorraine.fr/erraes5u/sae-5</td></tr>
-<tr><td>MEHIAOUI Mohamed<br>
-MERIMI	Ayat</td><td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne</td></tr>
-<tr><td>HERRY Elwyn<br>
-HERRY	Matteo</td><td>https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5</td></tr>
+<br>docker :  ✅</td></tr>
+<tr>
+  <td>MATEJKA Milan<br>MAURICE Simon</td>
+  <td>https://github.com/VoidOma/SAE5_Developpement_avance
+  <br>docker :  ❌
+  </td></tr>
+<tr>
+  <td>ALVARIZA BILLAR Felipe<br>KANY Thomas</td>
+  <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
+    <br>docker :  ❌
+  </td></tr>
+<tr>
+  <td>DUBREUIL Eliot<br>ERRAES Mehdi</td>
+  <td>https://gitlab.univ-lorraine.fr/erraes5u/sae-5
+    <br>docker : ❌
+  </td></tr>
+<tr>
+  <td>MEHIAOUI Mohamed<br>MERIMI Ayat</td>
+  <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
+  <br>docker : ❌</td></tr>
+<tr>
+  <td>HERRY Elwyn<br>HERRY	Matteo</td>
+  <td>https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
+  <br>docker :  ✅
+  </td></tr>
 </table>
 
 ### Poursuite d'études (4 groupes)
 
 <table>
-<tr><td>
-GAILLIEGUE Ewan <br>
-VINCENT Teo</td><td>https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne</td></tr>
-<tr><td>MEHRAZ Chayimaa<br>
-RIFI 	ZAYNAB </td><td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ</td></tr>
-<tr><td>ALGUL Sefer<br>
-GRANDGIRARD Louis</td><td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5</td></tr>
-<tr><td>COGNET Mattheo<br>
-BECERRA BARBA Erik <sup>(IP)</sup></td><td>https://github.com/MattheoCo/JardinDeCocagne</td></tr>
+<tr>
+  <td>GAILLIEGUE Ewan <br>VINCENT Teo</td>
+  <td>https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
+  <br>docker frontend: ✅ backend : ❌</td>
+</tr>
+<tr>
+  <td>MEHRAZ Chayimaa<br>RIFI 	ZAYNAB</td>
+  <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
+    <br>docker : ❌
+  </td></tr>
+<tr>
+  <td>ALGUL Sefer<br>GRANDGIRARD Louis</td>
+  <td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5
+  <br>docker : ❌</td></tr>
+<tr>
+  <td>COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></td>
+  <td>https://github.com/MattheoCo/JardinDeCocagne
+  <br>docker : ❌</td></tr>
 </table>
 
 ### Apprentis Insertion professionnelle (2 groupes)
@@ -435,7 +458,7 @@ PETRAZOLLER Johan</td></tr>
 NGUYEN Quang-Liem<br>
 RALLI	Clément</td></tr>
 <tr><td>
-DUFOUR Louise<sup>(*)</sup><br>
+DUFOUR Louise<br>
 MARTIN Mathis</td></tr>
 <tr><td>
 ROBAIL Alexandre</td></tr>
