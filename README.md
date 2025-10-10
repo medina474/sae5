@@ -389,11 +389,11 @@ ___
 <tr><td>
 PHILIPPON-CHAMPROUX Florentin<br>
 RATTI Martin</td><td>https://github.com/flo0s/Cocagne
-<br>docker :  ✅</td></tr>
+<br>docker : ✅ Liste des dépôts : ✅ Itinéraire : ✅ CRUD Tournée : ☹</td></tr>
 <tr>
   <td>MATEJKA Milan<br>MAURICE Simon</td>
   <td>https://github.com/VoidOma/SAE5_Developpement_avance
-  <br>docker :  ❌
+  <br>docker :  ☹
   </td></tr>
 <tr>
   <td>ALVARIZA BILLAR Felipe<br>KANY Thomas</td>
@@ -408,11 +408,11 @@ RATTI Martin</td><td>https://github.com/flo0s/Cocagne
 <tr>
   <td>MEHIAOUI Mohamed<br>MERIMI Ayat</td>
   <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
-  <br>docker : ❌</td></tr>
+  <br>docker : ❌ Manque info dans README</td></tr>
 <tr>
   <td>HERRY Elwyn<br>HERRY	Matteo</td>
   <td>https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
-  <br>docker :  ✅
+  <br>docker :  ✅ Liste des dépôts : ✅ crud tournée : ✅
   </td></tr>
 </table>
 
