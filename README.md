@@ -403,7 +403,7 @@ RATTI Martin</td><td>https://github.com/flo0s/Cocagne
 <tr>
   <td>DUBREUIL Eliot<br>ERRAES Mehdi</td>
   <td>https://gitlab.univ-lorraine.fr/erraes5u/sae-5
-    <br>docker : ❌
+    <br>docker : ✅ Liste des dépôts : ✅ Itinéraire : ✅ CRUD Tournée : ✅
   </td></tr>
 <tr>
   <td>MEHIAOUI Mohamed<br>MERIMI Ayat</td>
