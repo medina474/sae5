@@ -389,30 +389,45 @@ ___
 <tr><td>
 PHILIPPON-CHAMPROUX Florentin<br>
 RATTI Martin</td><td>https://github.com/flo0s/Cocagne
-<br>docker : ✅ Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ☹</td></tr>
+<br>docker : ✅
+<br>Base de données : PostgreSQL (latest)
+<br>.Net 9.0 - Blazor
+<br>Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ☹</td></tr>
 <tr>
   <td>MATEJKA Milan<br>MAURICE Simon</td>
   <td>https://github.com/VoidOma/SAE5_Developpement_avance
   <br>docker :  ☹
+  <br>Base de données : MySQL 8.0
+  <br>PHP 8.2 - Symfony 7.3
   </td></tr>
 <tr>
   <td>ALVARIZA BILLAR Felipe<br>KANY Thomas</td>
   <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
     <br>docker :  ❌
+    <br>Base de données : MySQL 8
+    <br>PHP 8.3 - Symfony 7.3
   </td></tr>
 <tr>
   <td>DUBREUIL Eliot<br>ERRAES Mehdi</td>
   <td>https://gitlab.univ-lorraine.fr/erraes5u/sae-5
-    <br>docker : ✅ Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ✅
+    <br>docker : ✅
+    <br>Base de données : PostgreSQL 18.0
+    <br>Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ✅
   </td></tr>
 <tr>
   <td>MEHIAOUI Mohamed<br>MERIMI Ayat</td>
   <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
-  <br>docker : ❌ ☹Manque info dans README</td></tr>
+  <br>docker : ❌
+  <br>Base de données : PostgreSQL 17.0
+  <br>NodeJS 20 - Express
+  </td></tr>
 <tr>
   <td>HERRY Elwyn<br>HERRY	Matteo</td>
   <td>https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
-  <br>docker :  ✅ Liste des dépôts : ✅ crud tournée : ✅ ordre par glisser-déposer : ✅
+  <br>docker :  ✅
+  <br>Base de données : MySQL 8.0
+  <br>NodeJS 18 - Express
+  Liste des dépôts : ✅ crud tournée : ✅ ordre par glisser-déposer : ✅
   </td></tr>
 </table>
 
@@ -422,21 +437,30 @@ RATTI Martin</td><td>https://github.com/flo0s/Cocagne
 <tr>
   <td>GAILLIEGUE Ewan <br>VINCENT Teo</td>
   <td>https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
-  <br>docker frontend: ✅ backend : ❌</td>
+  <br>docker frontend: ✅ backend : ❌
+  <br>Base de données ?
+  <br>NodeJS 18 - Express
+  </td>
 </tr>
 <tr>
   <td>MEHRAZ Chayimaa<br>RIFI 	ZAYNAB</td>
   <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
     <br>docker : ❌
+    <br>Base de données SQLite
+    <br>PHP 8.2 - Laravel 12
   </td></tr>
 <tr>
   <td>ALGUL Sefer<br>GRANDGIRARD Louis</td>
   <td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5
-  <br>docker : ❌</td></tr>
+  <br>docker : ❌
+  <br>Base de données : MySQL 8.0
+  <br>PHP 8.3 - Symfony 7.3</td></tr>
 <tr>
   <td>COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></td>
   <td>https://github.com/MattheoCo/JardinDeCocagne
-  <br>docker : ❌</td></tr>
+  <br>docker : ❌
+  <br>Base de données : PostgreSQL 16
+  <br>PHP 8.3 - Symfony 6.1</td></tr>
 </table>
 
 ### Apprentis Insertion professionnelle (2 groupes)
