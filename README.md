@@ -389,7 +389,7 @@ ___
 <tr><td>
 PHILIPPON-CHAMPROUX Florentin<br>
 RATTI Martin</td><td>https://github.com/flo0s/Cocagne
-<br>docker : ✅ Liste des dépôts : ✅ Itinéraire : ✅ CRUD Tournée : ☹</td></tr>
+<br>docker : ✅ Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ☹</td></tr>
 <tr>
   <td>MATEJKA Milan<br>MAURICE Simon</td>
   <td>https://github.com/VoidOma/SAE5_Developpement_avance
@@ -403,16 +403,16 @@ RATTI Martin</td><td>https://github.com/flo0s/Cocagne
 <tr>
   <td>DUBREUIL Eliot<br>ERRAES Mehdi</td>
   <td>https://gitlab.univ-lorraine.fr/erraes5u/sae-5
-    <br>docker : ✅ Liste des dépôts : ✅ Itinéraire : ✅ CRUD Tournée : ✅
+    <br>docker : ✅ Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ✅
   </td></tr>
 <tr>
   <td>MEHIAOUI Mohamed<br>MERIMI Ayat</td>
   <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
-  <br>docker : ❌ Manque info dans README</td></tr>
+  <br>docker : ❌ ☹Manque info dans README</td></tr>
 <tr>
   <td>HERRY Elwyn<br>HERRY	Matteo</td>
   <td>https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
-  <br>docker :  ✅ Liste des dépôts : ✅ crud tournée : ✅
+  <br>docker :  ✅ Liste des dépôts : ✅ crud tournée : ✅ ordre par glisser-déposer : ✅
   </td></tr>
 </table>
 
@@ -442,24 +442,26 @@ RATTI Martin</td><td>https://github.com/flo0s/Cocagne
 ### Apprentis Insertion professionnelle (2 groupes)
 
 <table>
-<tr><td>COLIN Gabin<br>
-DE RYCKE Leanne</td></tr>
-<tr><td>DESERT Romain<br>
-NIRRENGARTEN Tom</td><td>https://github.com/Rom444d/SAE-5</td></tr>
+<tr>
+  <td>COLIN Gabin<br>DE RYCKE Leanne</td>
+  <td>https://gitlab.univ-lorraine.fr/derycke4u/sae-5-colin-derycke</td>
+</tr>
+<tr>
+  <td>DESERT Romain<br>NIRRENGARTEN Tom</td><td>https://github.com/Rom444d/SAE-5</td>
+</tr>
 </table>
 
 ### Apprentis Poursuite d'Études (4 groupes)
 
 <table>
-<tr><td>
-GIL Jérémie<br>
-PETRAZOLLER Johan</td></tr>
-<tr><td>
-NGUYEN Quang-Liem<br>
-RALLI	Clément</td></tr>
-<tr><td>
-DUFOUR Louise<br>
-MARTIN Mathis</td></tr>
-<tr><td>
-ROBAIL Alexandre</td></tr>
+<tr>
+  <td>GIL Jérémie<br>PETRAZOLLER Johan</td>
+</tr>
+<tr>
+  <td>NGUYEN Quang-Liem<br>RALLI	Clément</td></tr>
+<tr>
+  <td>DUFOUR Louise<br>MARTIN Mathis</td></tr>
+<tr>
+  <td>ROBAIL Alexandre</td>
+</tr>
 </table>
