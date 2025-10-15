@@ -376,6 +376,16 @@ ___
 </tr>
 </table>
 
+## Barème
+
+Niveau | Note approx. | Description
+:-:    |:-:    | ---
+A      | 17-20 | Excellent : dépasse les normes requises et mérite une mention particulière.
+B      | 13-16 | Bon : dépasse les normes requises.
+C      | 9-12  | Moyen : correspond aux normes requises.
+D      | 5-8   | Insuffisant : est en dessous des normes, nécessite une amélioration.
+E      | 0-4   | Très Insuffisant : ne répond pas de toute évidence aux normes.
+
 ## Énoncé
 
 - [Contexte et cadre du projet](Contexte.md)
