@@ -202,7 +202,7 @@ Un adhérent sans panier est appelé un **soutien**. Il devra être dans la list
 ### 7.1 Adhésion à l'association
 
 > [!NOTE]
-> A noter que c'est cette adhésion qui est la base pour calculer une partie de la cotisation annuelle que reverse le jardin au Réseau national.
+> Cette adhésion est la base pour calculer une partie de la cotisation annuelle que reverse le jardin au Réseau national.
 
 Dans le cas des Jardins de Cocagne sous statut associatif (98 % des jardins), l'adhésion est obligatoire pour pouvoir accéder aux services et à la vente des produits de l'association. Tout client doit avant tout être adhérent, sauf cas particulier de clients professionnels à qui l'on ne demanderait pas d'adhésion (cf. case « dispensé d'adhésion » prévue sur la fiche client).
 
@@ -215,6 +215,11 @@ La périodicité doit être paramétrable dans l'outil. ex : année civile 01/01
 En général, une adhésion prise en cours de période est facturée à plein tarif, et est valable jusqu'à la fin de la période en cours.
 
 Les renouvellements d'adhésions sont tous appelés en même temps, avant la fin de la périodicité fixe.
+
+Sauf cas particuliers
+
+- Certains Jardins utilisent la notion de "date charnière" à paramétrer : c'est la date à partir de laquelle l'adhésion payée va jusqu'à la fin de la période suivante. Ex : si périodicité adhésion 01/01-31/12, et date charnière au 01/10 alors une inscription entre le 01/10 et le 31/12 année N sera valable jusqu'au 31/12 N+l.
+- D'autres Jardins font une cotisation dégressive au trimestre en fonction de la période d'inscription de l'adhérent.
 
 ## 8. Produits
 
@@ -353,8 +358,14 @@ Les pages suivantes sont dédiées au détail éléments à livrer sur chaque po
 
 Pour chaque point de dépôt (avec rappel adresse, no téléphone et nom gérant), on retrouve la liste des produits et noms de clients à livrer, avec leur numéro de téléphone, et une case vide pour signature. Cette liste peut être ordonnée par nom des clients ou par type de produits selon le choix de la structure. Une synthèse du nombre de produits à livrer par types de produits est présente en bas de chaque page.
 
-##### Validation
+#### Validation
 
 Sur la feuille de route, un bouton « valider que la livraison a été effectuée » permet de passer l'ensemble des produits figurant sur la feuille de route à l'état « livré ».
 
 > À noter le besoin d'une très bonne ergonomie des documents de préparation des livraisons car ils seront utilisés par des non professionnels de la logistique. Un outil de paramétrage ou d'export vers des fichiers bureautiques ou la création peu complexe de modèles par des utilisateurs avertis (ex  modèles.odt Dolibarr) sera indispensable.
+
+## Production
+
+Le module de production permet de définir la constitution des paniers. A partir du stock de légumes disponible il faut pouvoir faire un répartition équitable et homogène des légumes.
+
+Le prix cible du panier doit être respecté.
