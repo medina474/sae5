@@ -130,6 +130,14 @@ Sur la carte publique, ne doivent figurer que les PDD ouverts à tous et ceux r�
 
 Il serait pertinent que les indicateurs des points de dépôts puissent avoir une couleur différente : 1 couleur pour l'indicateur du PDD sur le site du Jardin de Cocagne, 1 couleur pour les PDD ouverts à tous, 1 couleur pour les PDD réservés à un public spécifique.
 
+##### Module de visualisation
+
+Il faudrait prévoir un module de visualisation des tournées facilitant leur (ré)organisation. Ex : liste globale des PDD organisée par identifiant de tournée puis ordre de livraison, et prévoir une facilité pour les **reclasser** (changer l'ordre de livraison d'une tournée, changer un PDD de tournée.)
+
+Un même point de dépôt peut appartenir à 2 tournées différentes, dans le cas où un même site propose 2 créneaux différents de livraison / récupération de paniers dans la semaine. Le client choisi un des 2 créneaux de livraison. A voir comment cette double appartenance sera gérée informatiquement (sélection du point de dépôt puis du jour 2).
+
+Ce [module](https://sources.neotech.fr/Universite/sae5#rendu-15--d%C3%A9veloppement-back-office-1) fait partie de la liste des rendus.
+
 ## 4. Jours de préparation
 
 Les jours de préparation sont des jours pendant lesquels tous les paniers appartenant à une ou plusieurs tournées sont préparés.
@@ -147,6 +155,8 @@ Une tournée de livraison est définie par :
 - une **succession ordonnées** de points de dépôts, définie grâce à un n° d'ordre de livraison dans la tournée, donner la possibilité de définir une couleur pour une tournée (la couleur a pour incidence de coloriser les PDD dans la partie gestion des PDD et synthèse des commandes à préparer et livrer / feuilles de route)
 
 [Planning du mercredi](plannings/Planning%20mercredi.pdf)
+
+![Livraison](photos/photos-29.jpg)
 
 ## 6. Adhérents
 
@@ -206,7 +216,6 @@ En général, une adhésion prise en cours de période est facturée à plein ta
 
 Les renouvellements d'adhésions sont tous appelés en même temps, avant la fin de la périodicité fixe.
 
-
 ## 8. Produits
 
 Les produits sont les différentes unités élémentaires qui peuvent être vendues. Cela peut être :
@@ -227,10 +236,9 @@ id|produit|prix|marge
 
 Chaque produit dispose à minima d'un nom et d'une unité, et éventuellement d'une photo ou image et d'une description.
 
-
 ## 9. Abonnements / Panier
 
-Un abonnement est un pack de vente d'un même produit livré régulièrement. Les abonnements peuvent concerner tous les types de produits : aussi bien les produits élémentaires (ex : abonnement boîtes d'œufs), que les lots de produits (ex : abonnement au panier fermier). C'est à la structure de déterminer les abonnements qu'elle propose.
+Un abonnement est un pack de vente d'un même produit livré régulièrement. Les abonnements peuvent concerner tous les types de produits : aussi bien les produits élémentaires (ex : abonnement boîtes d'œufs), que les lots de produits (ex : abonnement au panier fermier). C'est à la structure de déterminer les abonnements qu'elle propose. Les abonnements sont aussi appelés paniers.
 
 ### 9.1 Durée d'un abonnement
 
@@ -240,21 +248,90 @@ La structure définit la période type de l'abonnement grâce à des calendriers
 
 ### 9.2 Fréquence
 
-Un abonnement lie un produit et une fréquence de livraison.
+Un panier lie un produit et une fréquence de livraison.
 
-id|panier
---:|---
-1|Panier simple hebdomadaire
-2|Panier simple 15 jours
-3|Panier simple mensuel
-4|Panier familial hebdomadaire
-5|Panier familial 15 jours
-6|Panier familial mensuel
+id|panier|produit|fréquence
+--:|---|---|---
+1|Panier simple hebdomadaire   |Panier simple   |hebdomadaire
+2|Panier simple 15 jours       |Panier simple   |15 jours
+3|Panier simple mensuel        |Panier simple   |mensuel
+4|Panier familial hebdomadaire |Panier familial |hebdomadaire
+5|Panier familial 15 jours     |Panier familial |15 jours
+6|Panier familial mensuel      |Panier familial |mensuel
 
 ## 10 Calendrier
 
 Un calendrier défini les jours de livraison, il respecte les contrainte de fermetures du jardin et les jours fériés.
 
-Le calendrier est défini pour une fréquence donnée. les calendiers des abonnements quinzomadaire (tous les 15 jours) défini les jours de livraison.
+Le calendrier est défini pour une fréquence et une tournée donnée.
 
-Une tournée est affecté à un calendrier.
+Par exemple les calendiers des abonnements quinzomadaire (tous les 15 jours) pour la tournée du mardi matin défini les jours de livraison de ces paniers.
+
+## 11 Utilisateurs
+
+Le module gestion des utilisateurs devra permettre de gérer un annuaire avec des profils de droits (ou groupes). Il serait souhaitable de ne pas distinguer des adhérents, de clients ou d'utilisateurs mais avoir un outil puissant de gestion des permissions.
+
+### 11.1 Espace client « Mon compte »
+
+- Ses coordonnées personnelles
+- Ses coordonnées bancaires (prélèvement SEPA)
+- Ses commandes en cours, avec calendrier et lieux de livraison prévus
+- L'historique de ses commandes, de ses livraisons reçues et ses factures
+- Le suivi de ses règlements effectués, les règlements prévisionnels programmés ou à recevoir, l'état de son solde
+- En cas d'abonnement panier : la composition de son prochain panier à venir. L'affichage sera personnalisé grâce au module décrit en « Composition des paniers ».
+- En cas d'abonnement panier : Les feuilles de chou de son panier (affichage ciblé selon son type de panier et tournée de livraison). Cf. « Modèles pour publipostage »
+- En cas de client appartenant à une catégorie spécifique : le catalogue d'offre privée
+
+Depuis cet espace, il pourra :
+
+- Renseigner / Modifier ses coordonnées personnelles
+- Renseigner / Modifier ses coordonnées bancaires (prélèvement)
+- Déclarer une absence reporter ou annuler un produit selon l'option configurée par le Jardin de Cocagne
+- Modifier son point de dépôt ponctuellement pour une livraison, ou définitivement pour toutes les livraisons d'un abonnement
+- Modifier le jour de livraison de son abonnement (ponctuellement ou définitivement)
+- Télécharger les factures relatives à ses commandes (v2.+)
+- Effectuer un règlement de régularisation par carte bancaire ou par ordre de prélèvement  (v2.+)
+- Télécharger les feuilles de chou de son panier  (v2.+)
+- Effectuer une commande depuis le catalogue d'offre privée
+
+## 12 GPAO
+
+### 12.1. Synthèse des commandes à préparer
+
+Un onglet spécifique est dédié au récapitulatif des commandes à préparer et à livrer (état de commandes ou de produits « en préparation »). Cette synthèse est actualisée en permanence et est consultable en avance pour n'importe quelle date à venir. Les commandes passées sont consultables dans les archives.
+
+Pour un jour de préparation défini, ou pour toutes les préparations de la semaine, il faut édter le détails des articles à livrer.
+
+### 12.2 feuille de préparation de commandes
+
+La feuille de préparation indique le nombre de panier à préparer. Trier par type de panier et par lieu de livraison
+
+La feuille de préparation de commandes indique les noms des clients, le type de client, les produits commandés, le point de dépôt, le no de tournée.
+
+Lors de l'édition, plusieurs modes de présentation peuvent être proposés selon le choix de la structure (ex : entrée par type de client puis type de produits, puis ordre alphabétique des clients / ou bien ex :  entrée par type de produits puis par point de dépôt puis par ordre alphabétique des clients)
+
+En bas de page une synthèse indique le nombre de produits à préparer par types de produits.
+
+### 12.3  Étiquettes paniers
+
+Les étiquettes nominatives sont collées sur les cagettes. Elles permettent d'identifier à qui est destiné le panier.
+
+Pour chaque panier une étiquette contenant le nom de l'adhérent, le type de produit et le dépôt est imprimée.
+
+### 12.4 Feuille de route de livraison
+
+La feuille de route de livraison d'une journée est ordonnée par tournées, puis par points de dépôts selon leur ordre de livraison.
+
+Chaque tournée comporte une première page récapitulative de la tournée, indiquant la liste des points de dépôts dans l'ordre de livraison et le nombre de produits par type de produits à livrer sur chaque PDD.
+
+Une synthèse totale est présente en bas de page.
+
+Les pages suivantes sont dédiées au détail éléments à livrer sur chaque point de dépôt, avec un saut de page entre chaque PDD.
+
+Pour chaque point de dépôt (avec rappel adresse, no téléphone et nom gérant), on retrouve la liste des produits et noms de clients à livrer, avec leur numéro de téléphone, et une case vide pour signature. Cette liste peut être ordonnée par nom des clients ou par type de produits selon le choix de la structure. Une synthèse du nombre de produits à livrer par types de produits est présente en bas de chaque page.
+
+##### Validation
+
+Sur la feuille de route, un bouton « valider que la livraison a été effectuée » permet de passer l'ensemble des produits figurant sur la feuille de route à l'état « livré ».
+
+> À noter le besoin d'une très bonne ergonomie des documents de préparation des livraisons car ils seront utilisés par des non professionnels de la logistique. Un outil de paramétrage ou d'export vers des fichiers bureautiques ou la création peu complexe de modèles par des utilisateurs avertis (ex  modèles.odt Dolibarr) sera indispensable.

@@ -43,6 +43,24 @@ Formation initiale | Poursuite d'études        | 130 | 70
 Apprentissage      | Insertion professionnelle | 80  | 10
 Apprentissage      | Poursuite d'études        | 55  | 35
 
+## Jeu de rôle
+
+### Les acteurs
+
+La Situation d'Apprentissage et d'Évaluation (SAÉ) est un jeu de rôle.
+
+Vous (étudiants) êtes employés par l'entreprise SAÉ (Software Architecture Évolutions). C’est une entreprise spécialisée dans le développement logiciel de 25 personnes située à Saint-Dié des Vosges.
+
+Vous êtes des développeurs juniors avec déjà un an d’expérience.
+
+Ce projet est le premier projet d’ampleur que l’on vous confie.Et vous allez devoir travailler en binôme avec un autre collègue, lui aussi développeur junior.
+
+Un nouveau client  (le réseau Cocagne)  a demandé à Software Architecture Évolutions de prendre en charge son projet de développement d'une nouvelle application à destination de ses adhérents.
+
+Les différents **enseignants** représentent les bénévoles, employés, consultants ou fournisseurs tiers qui travaillent pour le réseau Cocagne.
+
+Vous devrez régulièrement fournir des **rendus** à ces personnes en suivant scrupuleusement leurs exigences.
+
 ## Rendus
 
 ### Rendu 1 : Analyse comparative
@@ -259,7 +277,9 @@ ___
 - **Compétence :** 2 - Optimiser
   - **Coefficients :**  Insertion professionnelle 12/50 ; poursuite d'études 17/50
 
-## Coefficients
+## Notation
+
+### Coefficients
 
 <table>
 <tr>
@@ -376,7 +396,7 @@ ___
 </tr>
 </table>
 
-## Barème
+### Barème
 
 Niveau | Note approx. | Description
 :-:    |:-:    | ---
@@ -385,6 +405,23 @@ B      | 13-16 | Bon : dépasse les normes requises.
 C      | 10-12 | Moyen : correspond aux normes requises.
 D      | 6-9   | Insuffisant : est en dessous des normes, nécessite une amélioration.
 E      | 0-5   | Très Insuffisant : ne répond pas de toute évidence aux normes.
+
+### Pénalités
+
+Diverses pénalités pourront être appliquées
+
+**Rendu en retard :** 1pt en moins par tranche de 6 heures de retard entamée.
+
+**Absence des informations d’identification sur les rendus** : 1 pt en moins.
+Doivent être présents sur la première page : les noms des étudiants, l'année universitaire, le titre du rendu, le logo de l'Université de Lorraine.
+
+**Non respect du format de fichier :** 1 pt en moins.
+Par exemple un fichier éditable Microsoft Word (.docx) à la place d'un fichier de présentation portable (.pdf)
+
+**Noms du binôme absents du nom de fichier :** 1 pt en moins.
+
+**Mise en forme de document incorrecte :** 2 pts en moins.
+Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql à la place d’un schéma ER.
 
 ## Énoncé
 
