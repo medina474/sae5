@@ -57,12 +57,12 @@ Contraintes : Répertorier des acteurs locaux non français, anglophones de pr�
 - **Coefficients :** 	7 / 50 (3.5 / 50 pour l'écrit - 3.5 / 50 pour l'oral)
 - **Date de rendu:** [16/09/2025](https://arche.univ-lorraine.fr/mod/assign/view.php?id=1622610)
 
-### Rendu 2 : Cahier des charges fonctionnels
+### Rendu 2 : Présentation produit
 
 > [!WARNING]
 > Énoncé non définitif, soumis à modification
 
-Transcrire la réunion avec les personnes des Jardins de Cogagne en un cahier des charges clair et compréhensible par des non professionnels du développement. Celui-ci sera soumis aux personnes du réseau Cocagne.
+<del>Transcrire la réunion avec les personnes des Jardins de Cogagne en un cahier des charges clair et compréhensible par des non professionnels du développement. Celui-ci sera soumis aux personnes du réseau Cocagne.</del>
 
 Contraintes : Présentation sous forme d'un diaporama visuellement riche avec des schémas de l'organisation et du fonctionnement.
 
@@ -382,14 +382,15 @@ Niveau | Note approx. | Description
 :-:    |:-:    | ---
 A      | 17-20 | Excellent : dépasse les normes requises et mérite une mention particulière.
 B      | 13-16 | Bon : dépasse les normes requises.
-C      | 9-12  | Moyen : correspond aux normes requises.
-D      | 5-8   | Insuffisant : est en dessous des normes, nécessite une amélioration.
-E      | 0-4   | Très Insuffisant : ne répond pas de toute évidence aux normes.
+C      | 10-12 | Moyen : correspond aux normes requises.
+D      | 6-9   | Insuffisant : est en dessous des normes, nécessite une amélioration.
+E      | 0-5   | Très Insuffisant : ne répond pas de toute évidence aux normes.
 
 ## Énoncé
 
 - [Contexte et cadre du projet](Contexte.md)
 - [Cahier des charges](Specifications.md)
+- [Modifications](Modifications.md) du cahier des charges suite à réunion avec le client
 
 ## Groupes
 

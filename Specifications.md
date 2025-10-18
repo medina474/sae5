@@ -142,10 +142,11 @@ Les points de dépôts sont livrés dans des **tournées de livraison**.
 Une tournée de livraison est définie par :
 
 - un identifiant de tournée qui doit pouvoir être personnalisable (chiffre ex : 1, 2, 3 ; ou lettre ex : tournée Ma ou V pour Mardi ou Vendredi, ou tournées BLR ou MTR pour Beaune la Rolande ou Montrouge.)
+- un jour de préparation
 - un jour de livraison
 - une **succession ordonnées** de points de dépôts, définie grâce à un n° d'ordre de livraison dans la tournée, donner la possibilité de définir une couleur pour une tournée (la couleur a pour incidence de coloriser les PDD dans la partie gestion des PDD et synthèse des commandes à préparer et livrer / feuilles de route)
 
-(Planning du mercredi)[plannings/Planning%20mercredi.pdf]
+[Planning du mercredi](plannings/Planning%20mercredi.pdf)
 
 ## 6. Adhérents
 
@@ -223,6 +224,9 @@ id|produit|prix|marge
 5|Panier fruité 2|17.00|70 %
 6|Oeufs x6       | 3.05|50 %
 7|Panier fruité entreprise|23.50|70 %
+
+Chaque produit dispose à minima d'un nom et d'une unité, et éventuellement d'une photo ou image et d'une description.
+
 
 ## 9. Abonnements / Panier
 
