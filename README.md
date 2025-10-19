@@ -75,7 +75,7 @@ Contraintes : Répertorier des acteurs locaux non français, anglophones de pr�
 - **Coefficients :** 	7 / 50 (3.5 / 50 pour l'écrit - 3.5 / 50 pour l'oral)
 - **Date de rendu:** [16/09/2025](https://arche.univ-lorraine.fr/mod/assign/view.php?id=1622610)
 
-### Rendu 2 : Présentation produit
+### Rendu 2 : Communication commerciale
 
 > [!WARNING]
 > Énoncé non définitif, soumis à modification
@@ -434,13 +434,14 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 ### Insertion Professionnelle (6 groupes)
 
 <table>
-<tr><td>
-PHILIPPON-CHAMPROUX Florentin<br>
-RATTI Martin</td><td>https://github.com/flo0s/Cocagne
-<br>docker : ✅
-<br>Base de données : PostgreSQL (latest)
-<br>.Net 9.0 - Blazor
-<br>Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ☹</td></tr>
+<tr>
+  <td>PHILIPPON-CHAMPROUX Florentin<br>RATTI Martin</td>
+  <td>https://github.com/flo0s/Cocagne
+  <br>docker : ✅
+  <br>Base de données : PostgreSQL (latest)
+  <br>.Net 9.0 - Blazor
+  <br>Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ☹</td>
+</tr>
 <tr>
   <td>MATEJKA Milan<br>MAURICE Simon</td>
   <td>https://github.com/VoidOma/SAE5_Developpement_avance

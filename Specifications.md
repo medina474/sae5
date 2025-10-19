@@ -1,6 +1,8 @@
 # Cahier des charges
 
-Un Jardin de Cocagne est une association composée de salariés permanents constituant l'équipe d'encadrement, de salariés en réinsertion professionnelle (chômeurs de longue durée, personnes en très grande difficulté sociale, réfugiés, détenu en liberté conditionnelle, etc.) et d'adhérents consommateurs.
+### TL;DR
+
+Un Jardin de Cocagne est une association composée de salariés permanents constituant l'équipe d'encadrement, de salariés en réinsertion professionnelle (chômeurs de longue durée, personnes en très grande difficulté sociale, réfugiés, etc.) et d'adhérents consommateurs.
 
 Seuls les adhérents peuvent utiliser les services de l’association.
 
@@ -57,15 +59,15 @@ Un module de paramétrage initial doit permettre de saisir les données de la st
 
 ## 2. Saisons
 
-L’application doit permettre de définir et gérer la notion de **saison**, correspondant à l’année associative propre à chaque structure.
+L’application doit permettre de définir et gérer la notion de saison, correspondant à l’année associative propre à chaque structure.
 
 La saison représente la période de référence pour la vie de l’association : elle encadre la gestion des adhésions, des cotisations et des activités collectives (ex. : répartition des parcelles, organisation des livraisons, planification des fermetures).
 
 Chaque saison est caractérisée par :
 
-- une **date de début** et une **date de fin** (qui peuvent différer de l’année civile),
-- la possibilité d’indiquer des **semaines de fermeture** ou des **jours fériés** sans activité,
-- un **libellé** permettant d’identifier facilement la saison (ex. : « Saison 2025 », « Printemps–Hiver 2026 », etc.).
+- une date de début** et une date de fin (qui peuvent différer de l’année civile),
+- la possibilité d’indiquer des semaines de fermeture ou des jours fériés sans activité,
+- un libellé permettant d’identifier facilement la saison (ex. : « Saison 2025 », « Printemps–Hiver 2026 », etc.).
 
 La gestion multi-saisons doit être possible afin de conserver l’historique et de préparer la saison suivante tout en clôturant la précédente.
 
@@ -73,11 +75,11 @@ La structure doit définir de manière générale son calendrier livrable c'est-
 
 ### 2.1 Semaines non livrables
 
-La structure doit pouvoir définir, de manière globale les **semaines non livrables**, à cocher sur un calendrier.
+La structure doit pouvoir définir, de manière globale les semaines non livrables, à cocher sur un calendrier.
 
 ### 2.2 Jours fériés
 
-La prise en compte des **jours fériés** auront pour incidence de **décaler** la livraison sur un jour inhabituel de la même semaine (ex : mardi 8 mai férié, livraison décalée au mercredi 9 mai). Cette déclaration des décalages de livraison doit s'aborder jour férié par jour férié, et idéalement par tournée de livraison (exemple pour 2 tournées prévues les mardis, l'une pourrait être décalée au lundi et l'autre au mercredi pour des raisons d'organisation).
+La prise en compte des jours fériés auront pour incidence de décaler la livraison sur un jour inhabituel de la même semaine (ex : mardi 8 mai férié, livraison décalée au mercredi 9 mai). Cette déclaration des décalages de livraison doit s'aborder jour férié par jour férié, et idéalement par tournée de livraison (exemple pour 2 tournées prévues les mardis, l'une pourrait être décalée au lundi et l'autre au mercredi pour des raisons d'organisation).
 
 ## 3. Dépôts
 
@@ -130,7 +132,7 @@ Sur la carte publique, ne doivent figurer que les PDD ouverts à tous et ceux r�
 
 Il serait pertinent que les indicateurs des points de dépôts puissent avoir une couleur différente : 1 couleur pour l'indicateur du PDD sur le site du Jardin de Cocagne, 1 couleur pour les PDD ouverts à tous, 1 couleur pour les PDD réservés à un public spécifique.
 
-##### Module de visualisation
+### Module de visualisation
 
 Il faudrait prévoir un module de visualisation des tournées facilitant leur (ré)organisation. Ex : liste globale des PDD organisée par identifiant de tournée puis ordre de livraison, et prévoir une facilité pour les **reclasser** (changer l'ordre de livraison d'une tournée, changer un PDD de tournée.)
 
@@ -141,7 +143,6 @@ Ce [module](https://sources.neotech.fr/Universite/sae5#rendu-15--d%C3%A9veloppem
 ## 4. Jours de préparation
 
 Les jours de préparation sont des jours pendant lesquels tous les paniers appartenant à une ou plusieurs tournées sont préparés.
-
 
 ## 5. Tournées de livraison
 
@@ -158,7 +159,7 @@ Une tournée de livraison est définie par :
 
 ![Livraison](photos/photos-29.jpg)
 
-## 6. Adhérents
+## 6. Clients
 
 Un client peut être une personne physique ou morale.
 
@@ -172,6 +173,7 @@ La fiche client comporte :
 - Nom, Prénom, Adresse, Code Postal, Ville, n° téléphone, mail. Rendre ces éléments obligatoires pour l'enregistrement de la fiche.
 - 2ème et 3ème case de téléphone, Profession, date de naissance. Éléments facultatifs pour l'enregistrement de la fiche
 - Mot de passe d'accès à son espace client « Mon compte » (créé automatiquement mais modifiable)
+- Une ou plusieurs critères et zones de commentaires : son souhait de recevoir des SMS, son souhait de recevoir des e-mails...
 
 ### 6.2 Les éléments relatifs à son adhésion
 
@@ -189,6 +191,22 @@ Pour le reste [cf. le paragraphe 7](#7-adhésions)
 > Note : Il se peut qu'un client ait plusieurs abonnements en même temps (pas de limite de nombre).
 
 Pour le reste cf le paragraphe 8
+
+### 6.4 Les éléments relatifs à ses règlements
+
+En particulier un pavé lié aux prélèvements, l'historique des règlements, les états des règlements, le solde en cours.
+
+____
+
+Il faut donner la possibilité aux structures de créer différents types de clients via des catégories (par ex : particuliers, AMAP, restauration collective, magasins, grossistes, salariés).
+
+Cela permettra ensuite de personnaliser des offres (disponibilités produits, tarifs, lieu de livraison) par types de clients.
+
+Dans ce cahier des charges le langage est simplifié pour clarifier les processus et élargir les possibilités de fonctionnement de l'outil.
+
+Habituellement les adhérents-consommateurs du Jardins de Cocagne (abonnés aux paniers ou achat détail au marché) sont appelés les adhérents ; les autres types de ventes réalisées auprès clients de professionnels sont distingués. Or, dans ce cahier des charges on utilisera le terme « client » au sens large, pour toute personne physique ou morale qui va faire un acte d'achat auprès du Jardin de Cocagne (aussi bien un abonné aux paniers, qu'un particulier achetant au marché, qu'un professionnel passant une commande).
+
+Le terme « adhérent » ne sera utilisé que dans le cadre de l'adhésion à l'association, qui est distincte et dissociée de l'acte d' achat (même si dans certains cas l'adhésion à l' association est obligatoire pour pouvoir effectuer certains actes d'achat).
 
 ## 7. Adhésions
 
@@ -274,6 +292,11 @@ L'abonnement est programmé d'après les conditions de paramétrages définies p
 
 Si une résiliation a été programmée pour cet abonnement (pour avant ou pour le jour de la fin de l'abonnement), alors l'abonnement n'est pas renouvelé.
 
+### 9.4 Paniers solidaires ou offerts
+
+Certains clients, comme les salariés en insertion, ont des paniers payés quelques % du prix public de vente.
+
+Les adhérents peuvent acheter des paniers pour en faire dons
 
 ## 10 Calendrier
 
@@ -364,8 +387,32 @@ Sur la feuille de route, un bouton « valider que la livraison a été effectué
 
 > À noter le besoin d'une très bonne ergonomie des documents de préparation des livraisons car ils seront utilisés par des non professionnels de la logistique. Un outil de paramétrage ou d'export vers des fichiers bureautiques ou la création peu complexe de modèles par des utilisateurs avertis (ex  modèles.odt Dolibarr) sera indispensable.
 
-## Production
+## 13. Composition des paniers
 
 Le module de production permet de définir la constitution des paniers. A partir du stock de légumes disponible il faut pouvoir faire un répartition équitable et homogène des légumes.
 
 Le prix cible du panier doit être respecté.
+
+## 14. Recettes
+
+Idéalement, il faudrait que chaque saisie d'une recette sur un back office d'un des Jardins de Cocagne alimente une base de données commune. Les modules de recherche des front office de l'ensemble des Jardins iraient piocher dans cette base de données nationale.
+
+## 15. Légalité
+
+Le logiciel devra être en conformité avec l'ensemble des lesgislations, et en particulier avec :
+
+- La loi informatique et libertés concernant la collecte, le traitement, la conservation et le droit de rectification de données personnelles, et la déclaration à la CNIL.
+- La loi de finances concernant l'inaltérabilité, la sécurisation, la conservation et l'archivage des opérations.
+- Les normes relatives au prélèvement SEPA et éventuellement autres normes concernant les autres modes de règlement.
+
+Le prestataire devra nous accompagner sur les procédures éventuelles à mettre en œuvre dans ce cadre.
+
+### 16. Charte
+
+En s’abonnant à un Panier Cocagne, vous êtes assuré.e de contribuer à un projet :
+
+- ayant pour priorité l’accueil et l’attention apportés aux personnes les plus vulnérables, sans discrimination ;
+- qui respecte le sol et le vivant, dans une démarche de progrès écologique certifiée « Agriculture Biologique » ;
+- qui défend l’accès digne de toutes et tous à une alimentation saine et durable produite et commercialisée dans le cadre de relations de confiance ;
+- qui croit en la force du collectif et s’évertue à partager ses expériences, ses outils et à développer des dispositifs de coopération entre pairs ;
+- qui participe à l’émergence d’une nouvelle économie au service des territoires et de la transition écologique et sociale.
