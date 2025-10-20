@@ -393,7 +393,7 @@ Le module de production permet de définir la constitution des paniers. A partir
 
 Le prix cible du panier doit être respecté.
 
-[Composition des paniers](autres/détail paniers.pdf)
+[Composition des paniers](autres/détail%20paniers.pdf)
 
 ## 14. Recettes
 
@@ -409,7 +409,7 @@ Le logiciel devra être en conformité avec l'ensemble des lesgislations, et en 
 
 Le prestataire devra nous accompagner sur les procédures éventuelles à mettre en œuvre dans ce cadre.
 
-### 16. Charte
+## 16. Charte
 
 En s’abonnant à un Panier Cocagne, vous êtes assuré.e de contribuer à un projet :
 
