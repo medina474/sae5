@@ -308,6 +308,11 @@ Par exemple les calendiers des abonnements quinzomadaire (tous les 15 jours) pou
 
 Il faut pouvoir ajuster les semaines de livraison par abonnements, mais aussi par tournées de livraison ou dépôts. En effet pour lisser la charge de travail et la production de légumes, les abonnements mensuels ne seront pas tous distribués la même semaine à tous les adhérents. Pour un même abonnement il existera un décalage de livraison.
 
+Les différents calendriers :
+- Planning de livraison des [paniers tous les 15 jours du mardi](plannings/plannings%20mardi.pdf)
+- Planning de livraison des [paniers tous les 15 jours du mercredi](plannings/plannings%20mercredi.pdf)
+- Planning de livraison des [paniers tous les 15 jours du vendredi](plannings/plannings%20vendredi.pdf)
+
 ## 11 Utilisateurs
 
 Le module gestion des utilisateurs devra permettre de gérer un annuaire avec des profils de droits (ou groupes). Il serait souhaitable de ne pas distinguer des adhérents, de clients ou d'utilisateurs mais avoir un outil puissant de gestion des permissions.
@@ -381,6 +386,8 @@ Les pages suivantes sont dédiées au détail éléments à livrer sur chaque po
 
 Pour chaque point de dépôt (avec rappel adresse, no téléphone et nom gérant), on retrouve la liste des produits et noms de clients à livrer, avec leur numéro de téléphone, et une case vide pour signature. Cette liste peut être ordonnée par nom des clients ou par type de produits selon le choix de la structure. Une synthèse du nombre de produits à livrer par types de produits est présente en bas de chaque page.
 
+[Feuille de route](autres/feuille_de_route.pdf)
+
 #### Validation
 
 Sur la feuille de route, un bouton « valider que la livraison a été effectuée » permet de passer l'ensemble des produits figurant sur la feuille de route à l'état « livré ».
@@ -391,9 +398,11 @@ Sur la feuille de route, un bouton « valider que la livraison a été effectué
 
 Le module de production permet de définir la constitution des paniers. A partir du stock de légumes disponible il faut pouvoir faire un répartition équitable et homogène des légumes.
 
+[Composition des paniers](autres/détail%20paniers.pdf)
+
 Le prix cible du panier doit être respecté.
 
-[Composition des paniers](autres/détail%20paniers.pdf)
+[Outil de composition des paniers](captures/panier_simple_mercredi.webp)
 
 ## 14. Recettes
 
