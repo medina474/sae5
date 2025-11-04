@@ -471,6 +471,11 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>MEHIAOUI Mohamed<br>MERIMI Ayat</td>
   <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
   <br>docker : ❌
+  <i>> jardin-cocagne-front@1.0.0 dev<br>
+     > nodemon server.js<br>
+      <br>
+     sh: nodemon: Permission denied
+  </i>
   <br>Base de données : PostgreSQL 17.0
   <br>NodeJS 20 - Express
   </td></tr>
@@ -499,7 +504,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>MEHRAZ Chayimaa<br>RIFI 	ZAYNAB</td>
   <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ ERREUR 404 sur dépôt, plus d'accès
-    <br>docker : ❌
+    <br>docker : ❌ Le dépôt n'est plus disponible.
     <br>Base de données SQLite
     <br>PHP 8.2 - Laravel 12
   </td></tr>
@@ -517,6 +522,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></td>
   <td>https://github.com/MattheoCo/JardinDeCocagne
   <br>docker : ❌
+  <i>PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5\nStack trace:\n#0 {main}\n  thrown in /var/www/html/public/index.php on line 5</i>
   <br>Base de données : PostgreSQL 16
   <br>PHP 8.3 - Symfony 6.1</td></tr>
 </table>
