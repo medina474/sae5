@@ -455,11 +455,8 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>ALVARIZA BILLAR Felipe<br>KANY Thomas</td>
   <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
     <br>docker :  ❌<br>
-```
-Warning: require_once(/var/www/html/vendor/autoload_runtime.php): Failed to open stream: No such file or directory in /var/www/html/public/index.php on line 5
-
-Fatal error: Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5 Stack trace: #0 {main} thrown in /var/www/html/public/index.php on line 5
-```
+    <i>Warning: require_once(/var/www/html/vendor/autoload_runtime.php): Failed to open stream: No such file or directory in /var/www/html/public/index.php on line 5</i>
+    <i>Fatal error: Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5 Stack trace: #0 {main} thrown in /var/www/html/public/index.php on line 5</i>
     <br>Base de données : MySQL 8
     <br>PHP 8.3 - Symfony 7.3
   </td></tr>
@@ -510,14 +507,12 @@ Fatal error: Uncaught Error: Failed opening required '/var/www/html/vendor/autol
   <td>ALGUL Sefer<br>GRANDGIRARD Louis</td>
   <td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5
   <br>docker : ❌<br>
-```
-Warning: require_once(/var/www/html/vendor/autoload_runtime.php): Failed to open stream: No such file or directory in /var/www/html/public/index.php on line 5
-
-Fatal error: Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5 Stack trace: #0 {main} thrown in /var/www/html/public/index.php on line 5
-```
+    <i>Warning: require_once(/var/www/html/vendor/autoload_runtime.php): Failed to open stream: No such file or directory in /var/www/html/public/index.php on line 5</i>
+    <i>Fatal error: Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5 Stack trace: #0 {main} thrown in /var/www/html/public/index.php on line 5</i>
   <br>Base de données : MySQL 8.0
   <br>PHP 8.3 - Symfony 7.3
-  </td></tr>
+  </td>
+</tr>
 <tr>
   <td>COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></td>
   <td>https://github.com/MattheoCo/JardinDeCocagne
