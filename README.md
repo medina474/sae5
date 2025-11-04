@@ -445,14 +445,21 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>MATEJKA Milan<br>MAURICE Simon</td>
   <td>https://github.com/VoidOma/SAE5_Developpement_avance
-  <br>docker :  ☹
+  <br>docker : ✅
   <br>Base de données : MySQL 8.0
   <br>PHP 8.2 - Symfony 7.3
+  <br>Page d'accueil : ❌
+  <br>Module tournée :
   </td></tr>
 <tr>
   <td>ALVARIZA BILLAR Felipe<br>KANY Thomas</td>
   <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
-    <br>docker :  ❌
+    <br>docker :  ❌<br>
+```
+Warning: require_once(/var/www/html/vendor/autoload_runtime.php): Failed to open stream: No such file or directory in /var/www/html/public/index.php on line 5
+
+Fatal error: Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5 Stack trace: #0 {main} thrown in /var/www/html/public/index.php on line 5
+```
     <br>Base de données : MySQL 8
     <br>PHP 8.3 - Symfony 7.3
   </td></tr>
@@ -486,14 +493,15 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>GAILLIEGUE Ewan <br>VINCENT Teo</td>
   <td>https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
-  <br>docker frontend: ✅ backend : ❌
+  <br>docker frontend (3000): ✅ backend : ❌ (5000)<br>
+  Mettre un reverse proxy pour n'avoir qu'une seule entrée
   <br>Base de données ?
   <br>NodeJS 18 - Express
   </td>
 </tr>
 <tr>
   <td>MEHRAZ Chayimaa<br>RIFI 	ZAYNAB</td>
-  <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
+  <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ ERREUR 404 sur dépôt, plus d'accès
     <br>docker : ❌
     <br>Base de données SQLite
     <br>PHP 8.2 - Laravel 12
@@ -501,9 +509,15 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>ALGUL Sefer<br>GRANDGIRARD Louis</td>
   <td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5
-  <br>docker : ❌
+  <br>docker : ❌<br>
+```
+Warning: require_once(/var/www/html/vendor/autoload_runtime.php): Failed to open stream: No such file or directory in /var/www/html/public/index.php on line 5
+
+Fatal error: Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5 Stack trace: #0 {main} thrown in /var/www/html/public/index.php on line 5
+```
   <br>Base de données : MySQL 8.0
-  <br>PHP 8.3 - Symfony 7.3</td></tr>
+  <br>PHP 8.3 - Symfony 7.3
+  </td></tr>
 <tr>
   <td>COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></td>
   <td>https://github.com/MattheoCo/JardinDeCocagne
