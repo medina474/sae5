@@ -470,10 +470,9 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>MEHIAOUI Mohamed<br>MERIMI Ayat</td>
   <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
-  <br>docker : ❌
+  <br>docker : ❌<br>
   <i>> jardin-cocagne-front@1.0.0 dev<br>
      > nodemon server.js<br>
-      <br>
      sh: nodemon: Permission denied
   </i>
   <br>Base de données : PostgreSQL 17.0
@@ -521,7 +520,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></td>
   <td>https://github.com/MattheoCo/JardinDeCocagne
-  <br>docker : ❌
+  <br>docker : ❌<br>
   <i>PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5\nStack trace:\n#0 {main}\n  thrown in /var/www/html/public/index.php on line 5</i>
   <br>Base de données : PostgreSQL 16
   <br>PHP 8.3 - Symfony 6.1</td></tr>
