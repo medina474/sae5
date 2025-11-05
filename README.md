@@ -470,13 +470,9 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>MEHIAOUI Mohamed<br>MERIMI Ayat</td>
   <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
-  <br>docker : ❌<br>
-  <i>> jardin-cocagne-front@1.0.0 dev<br>
-     > nodemon server.js<br>
-     sh: nodemon: Permission denied
-  </i>
-  <br>Base de données : PostgreSQL 17.0
-  <br>NodeJS 20 - Express
+    <br>docker : ✅
+    <br>Base de données : PostgreSQL 17.0
+    <br>NodeJS 20 - Express
   </td></tr>
 <tr>
   <td>HERRY Elwyn<br>HERRY	Matteo</td>
