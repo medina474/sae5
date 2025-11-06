@@ -309,9 +309,9 @@ Par exemple les calendiers des abonnements quinzomadaire (tous les 15 jours) pou
 Il faut pouvoir ajuster les semaines de livraison par abonnements, mais aussi par tournées de livraison ou dépôts. En effet pour lisser la charge de travail et la production de légumes, les abonnements mensuels ne seront pas tous distribués la même semaine à tous les adhérents. Pour un même abonnement il existera un décalage de livraison.
 
 Les différents calendriers :
-- Planning de livraison des [paniers tous les 15 jours du mardi](plannings/plannings%20mardi.pdf)
-- Planning de livraison des [paniers tous les 15 jours du mercredi](plannings/plannings%20mercredi.pdf)
-- Planning de livraison des [paniers tous les 15 jours du vendredi](plannings/plannings%20vendredi.pdf)
+- Planning de livraison des [paniers tous les 15 jours du mardi](plannings/Plannings%20mardi.pdf)
+- Planning de livraison des [paniers tous les 15 jours du mercredi](plannings/Plannings%20mercredi.pdf)
+- Planning de livraison des [paniers tous les 15 jours du vendredi](plannings/Plannings%20vendredi.pdf)
 
 ## 11 Utilisateurs
 
