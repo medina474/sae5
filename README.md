@@ -493,7 +493,8 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>MEHRAZ Chayimaa<br>RIFI 	ZAYNAB</td>
   <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ ERREUR 404 sur dépôt, plus d'accès
-    <br>docker : ❌ Le dépôt n'est plus disponible.
+    <br>docker : ❌<br>
+    <i>file_put_contents(/var/www/html/storage/framework/views/9745f6a6f3fcc1ddd95648c9a006bc71.php): Failed to open stream: Permission denied</i>
     <br>Base de données SQLite
     <br>PHP 8.2 - Laravel 12
   </td></tr>
@@ -501,8 +502,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>ALGUL Sefer<br>GRANDGIRARD Louis</td>
   <td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5
   <br>docker : ❌<br>
-    <i>Warning: require_once(/var/www/html/vendor/autoload_runtime.php): Failed to open stream: No such file or directory in /var/www/html/public/index.php on line 5</i>
-    <i>Fatal error: Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5 Stack trace: #0 {main} thrown in /var/www/html/public/index.php on line 5</i>
+    <i>Unable to create the "cache" directory (/var/www/html/var/cache/dev).</i>
   <br>Base de données : MySQL 8.0
   <br>PHP 8.3 - Symfony 7.3
   </td>
@@ -511,7 +511,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></td>
   <td>https://github.com/MattheoCo/JardinDeCocagne
   <br>docker : ❌<br>
-  <i>PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5\nStack trace:\n#0 {main}\n  thrown in /var/www/html/public/index.php on line 5</i>
+  <i>Unable to create the "cache" directory (/var/www/html/var/cache/dev).</i>
   <br>Base de données : PostgreSQL 16
   <br>PHP 8.3 - Symfony 6.1</td></tr>
 </table>
