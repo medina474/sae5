@@ -77,12 +77,7 @@ Contraintes : Répertorier des acteurs locaux non français, anglophones de pr�
 
 ### Rendu 2 : Communication commerciale
 
-> [!WARNING]
-> Énoncé non définitif, soumis à modification
-
-<del>Transcrire la réunion avec les personnes des Jardins de Cogagne en un cahier des charges clair et compréhensible par des non professionnels du développement. Celui-ci sera soumis aux personnes du réseau Cocagne.</del>
-
-Contraintes : Présentation sous forme d'un diaporama visuellement riche avec des schémas de l'organisation et du fonctionnement.
+Définir et rédiger une communication commerciale de l'application.
 
 - **Étudiants concernés :** tous
 - **Correctrice :** Alexandra Doennlen
@@ -455,8 +450,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>ALVARIZA BILLAR Felipe<br>KANY Thomas</td>
   <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
     <br>docker :  ❌<br>
-    <i>Warning: require_once(/var/www/html/vendor/autoload_runtime.php): Failed to open stream: No such file or directory in /var/www/html/public/index.php on line 5</i>
-    <i>Fatal error: Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5 Stack trace: #0 {main} thrown in /var/www/html/public/index.php on line 5</i>
+    <i>Unable to write in the "cache" directory (/var/www/html/var/cache/dev).</i>
     <br>Base de données : MySQL 8
     <br>PHP 8.3 - Symfony 7.3
   </td></tr>
