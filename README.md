@@ -435,8 +435,8 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 - Ne jamais inclure les configurations locales dans le fichier principal
 - Ne jamais inscrire de mot de passe en clair dans un _Dockerfile_ ou un _compose.yaml_
 - Utiliser un **Dockerfile multistage**
- - Étape 1 : installation des dépendances (ex. composer install, npm ci).
- - Étape 2 : copie du code (sans les caches inutiles). utiliser _.dockerignore_
+  - Étape 1 : installation des dépendances (ex. composer install, npm ci).
+  - Étape 2 : copie du code (sans les caches inutiles). utiliser _.dockerignore_
   - Limiter le nombre de couches Docker (fusionner les RUN si possible).
   - Nettoyer les caches après installation des dépendances (rm -rf /var/lib/apt/lists/*).
 - Pour le développement local ajouter une image _oneshot_ pour effectuer l'installation des dépendances
