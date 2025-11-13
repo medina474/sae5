@@ -426,8 +426,24 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 
 ## Environnement Docker
 
-
-
+- Utiliser l'attribut _name_ en début du fichier _compose.yaml_ en y mettant vos noms en minuscule : *nom1_nom2*
+- Pour le choix des images, ne pas utiliser _latest_, mais spécifier une **version majeure** 
+(ex. postgres:16, node:20, php:8.3-fpm) afin d’assurer la reproductibilité et éviter les régressions liées aux mises à jour non maîtrisées.
+- Créer un fichier principal : _compose.yaml_ et un fichier pour le développement local : _compose.override.yaml_
+  - Les outils d'aministration et de debug comme phpMyAdmin doivent être dans l'override de développement
+  - Les volumes pour le développement local doivent être montés dans l'override
+- Ne jamais inclure les configurations locales dans le fichier principal
+- Ne jamais inscrire de mot de passe en clair dans un _Dockerfile_ ou un _compose.yaml_
+- Utiliser un **Dockerfile multistage**
+ - Étape 1 : installation des dépendances (ex. composer install, npm ci).
+ - Étape 2 : copie du code (sans les caches inutiles). utiliser _.dockerignore_
+  - Limiter le nombre de couches Docker (fusionner les RUN si possible).
+  - Nettoyer les caches après installation des dépendances (rm -rf /var/lib/apt/lists/*).
+- Pour le développement local ajouter une image _oneshot_ pour effectuer l'installation des dépendances
+- Ajouter un fichier _.gitignore_ adapté pour éviter d'inclure les fichiers temporaires ou cache
+- Utiliser un réseau interne pour la communication entre services
+- Si vous avez différents services à exposer, n'utiliser pas des ports multiples mais un [reverse proxy](https://sources.neotech.fr/Universite/tp/src/branch/main/reverse_proxy.md)
+ 
 ## Groupes
 
 ### Insertion Professionnelle (6 groupes)
