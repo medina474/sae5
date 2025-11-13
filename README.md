@@ -424,6 +424,10 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 - [Cahier des charges](Specifications.md)
 - [Modifications](Modifications.md) du cahier des charges suite à réunion avec le client
 
+## Environnement Docker
+
+
+
 ## Groupes
 
 ### Insertion Professionnelle (6 groupes)
@@ -492,7 +496,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 </tr>
 <tr>
   <td>MEHRAZ Chayimaa<br>RIFI 	ZAYNAB</td>
-  <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ ERREUR 404 sur dépôt, plus d'accès
+  <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
     <br>docker : ❌<br>
     <i>file_put_contents(/var/www/html/storage/framework/views/9745f6a6f3fcc1ddd95648c9a006bc71.php): Failed to open stream: Permission denied</i>
     <br>Base de données SQLite
