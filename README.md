@@ -427,7 +427,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 ## Environnement Docker
 
 - Utiliser l'attribut _name_ en début du fichier _compose.yaml_ en y mettant vos noms en minuscule : *nom1_nom2*
-- Pour le choix des images, ne pas utiliser _latest_, mais spécifier une **version majeure** 
+- Pour le choix des images, ne pas utiliser _latest_, mais spécifier une **version majeure**
 (ex. postgres:16, node:20, php:8.3-fpm) afin d’assurer la reproductibilité et éviter les régressions liées aux mises à jour non maîtrisées.
 - Créer un fichier principal : _compose.yaml_ et un fichier pour le développement local : _compose.override.yaml_
   - Les outils d'aministration et de debug comme phpMyAdmin doivent être dans l'override de développement
@@ -443,7 +443,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 - Ajouter un fichier _.gitignore_ adapté pour éviter d'inclure les fichiers temporaires ou cache
 - Utiliser un réseau interne pour la communication entre services
 - Si vous avez différents services à exposer, n'utiliser pas des ports multiples mais un [reverse proxy](https://sources.neotech.fr/Universite/tp/src/branch/main/reverse_proxy.md)
- 
+
 ## Groupes
 
 ### Insertion Professionnelle (6 groupes)
@@ -453,7 +453,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>PHILIPPON-CHAMPROUX Florentin<br>RATTI Martin</td>
   <td>https://github.com/flo0s/Cocagne
   <br>docker : ✅
-  <br>Base de données : PostgreSQL (latest)
+  <br>Base de données : PostgreSQL (17)
   <br>.Net 9.0 - Blazor
   <br>Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ☹</td>
 </tr>
@@ -473,6 +473,8 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <i>Unable to write in the "cache" directory (/var/www/html/var/cache/dev).</i>
     <br>Base de données : MySQL 8
     <br>PHP 8.3 - Symfony 7.3
+    <br>Page d'accueil : manque noms
+    <br>Liste des dépôts : ✅
   </td></tr>
 <tr>
   <td>DUBREUIL Eliot<br>ERRAES Mehdi</td>
