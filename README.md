@@ -487,8 +487,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>KANY Thomas</th>
   <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
     <br>30 commits (16/11/2025) 24 Kany / 6 Alvariza
-    <br>docker :  ❌<br>
-    <i>Unable to write in the "cache" directory (/var/www/html/var/cache/dev).</i>
+    <br>docker :  ✅<br>
     <br>Base de données : MySQL 8
     <br>PHP 8.3 - Symfony 7.3
     <br>Page d'accueil : manque noms
@@ -549,11 +548,11 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>PHP 8.2 - Laravel 12
   </td></tr>
 <tr>
-  <th style="vertical-align:top;text-align:start">ALGUL Sefer<br>GRANDGIRARD Louis</th>
+  <th style="vertical-align:top;text-align:start">
+  ALGUL Sefer<br>GRANDGIRARD Louis</th>
   <td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5
   <br>42 commits (04/12/2025) 30 Algul / 12 Grandgirard
-  <br>docker : ❌<br>
-    <i>Unable to create the "cache" directory (/var/www/html/var/cache/dev).</i>
+  <br>docker : ✅
   <br>Base de données : MySQL 8.0
   <br>PHP 8.3 - Symfony 7.3
   </td>
@@ -563,7 +562,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>https://github.com/MattheoCo/JardinDeCocagne
   <br>30 commits (12/10/2025) 26 Cognet / 4 Becerra
   <br>docker : ❌<br>
-  <i>Unable to create the "cache" directory (/var/www/html/var/cache/dev).</i>
+  <i>HP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5\nStack trace:\n#0 {main}\n  thrown in /var/www/html/public/index.php on line 5</i>
   <br>Base de données : PostgreSQL 16
   <br>PHP 8.3 - Symfony 6.1</td></tr>
 </table>
