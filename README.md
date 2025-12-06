@@ -452,10 +452,18 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>PHILIPPON-CHAMPROUX Florentin<br>RATTI Martin</td>
   <td>https://github.com/flo0s/Cocagne
+  <br>84 commits (27/11/2025)
   <br>docker : ✅
-  <br>Base de données : PostgreSQL (17)
   <br>.Net 9.0 - Blazor
-  <br>Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ☹</td>
+  <br>Base de données : PostgreSQL (17)
+  <br>CRUD Tournée :
+  <br>Liste des dépôts : ✅
+  <br>Itinéraire : ✅
+  ![Commits over time](commits/A.png)
+  <br>
+  ![Philippon-Champroux](commits/A1.png)
+  ![Ratti](commits/A1.png)
+  </td>
 </tr>
 <tr>
   <td>MATEJKA Milan<br>MAURICE Simon</td>
