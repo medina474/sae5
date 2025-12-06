@@ -523,18 +523,26 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   </th>
   <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
   <br>50 commits (05/12/2025) 46 Mehiaoui / 4 Merimi
+  <br>
     <br>docker : ✅
-    <br>Base de données : PostgreSQL 17.0
-    <br>NodeJS 20 - Express
+    <br>PostgreSQL 17.0 - NodeJS 20 - Express
+    <br>
+    <br>Page d'accueil : manque noms
+    <br>Liste des dépôts : ✅
+    <br>CRUD Tournée : ❌
+    <br>Calendriers: ❌
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">HERRY Elwyn<br>HERRY	Matteo</th>
   <td>https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
   <br>15 commits (11/10/2025) 13 Mattéo / 2 Elwyn
+  <br>
   <br>docker :  ✅
-  <br>Base de données : MySQL 8.0
-  <br>NodeJS 18 - Express
+  <br>MySQL 8.0 - NodeJS 18 - Express
+  <br>
   Liste des dépôts : ✅ crud tournée : ✅ ordre par glisser-déposer : ✅
+  <br>CRUD Tournée : ❌
+    <br>Calendriers: ❌
   </td></tr>
 </table>
 
@@ -565,9 +573,15 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   ALGUL Sefer<br>GRANDGIRARD Louis</th>
   <td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5
   <br>42 commits (04/12/2025) 30 Algul / 12 Grandgirard
+  <br>
   <br>docker : ✅
-  <br>Base de données : MySQL 8.0
-  <br>PHP 8.3 - Symfony 7.3
+  <br>MySQL 8.0 - PHP 8.3 - Symfony 7.3
+  <br>
+  <br>Page d'accueil : ✅
+    <br>Liste des dépôts : ✅
+    <br>CRUD Tournée : ✅
+    <br>Légumes: ✅
+    <br>Module composition: ✅
   </td>
 </tr>
 <tr>
