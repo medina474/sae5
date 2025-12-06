@@ -456,12 +456,15 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   </th>
   <td>https://github.com/flo0s/Cocagne
   <br>84 commits (27/11/2025) 63 Philippon / 21 Ratti
+  <br>
   <br>docker : ✅
-  <br>.Net 9.0 - Blazor
-  <br>Base de données : PostgreSQL (17)
-  <br>CRUD Tournée :
+  <br>PostgreSQL (17) - .Net 9.0 - Blazor
+  <br>
+  <br>Page d'accueil avec noms : ✅
   <br>Liste des dépôts : ✅
+  <br>CRUD Tournée : ✅
   <br>Itinéraire : ✅
+  <br>Calendriers : ✅
 
 ![Commits over time](commits/A.png)
 ![Philippon-Champroux](commits/A1.png)
@@ -475,11 +478,14 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   </th>
   <td>https://github.com/VoidOma/SAE5_Developpement_avance
   <br>18 commits (07/11/2025) (14 Matejka / 4 Maurice)
+  <br>
   <br>docker : ✅
-  <br>Base de données : MySQL 8.0
-  <br>PHP 8.2 - Symfony 7.3
-  <br>Page d'accueil : ❌
-  <br>Module tournée :
+  <br>MySQL 8.0 - PHP 8.2 - Symfony 7.3
+  <br>
+  <br>Page d'accueil : ✅
+  <br>Liste des dépôts : Base table or view not found: 1146 Table 'sae5.depot' doesn't exist
+  <br>Module tournée : Base table or view not found: 1146 Table 'sae5.tournee' doesn't exist
+  <br>Calendriers : ❌
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
@@ -487,11 +493,14 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>KANY Thomas</th>
   <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
     <br>30 commits (16/11/2025) 24 Kany / 6 Alvariza
+    <br>
     <br>docker :  ✅<br>
-    <br>Base de données : MySQL 8
-    <br>PHP 8.3 - Symfony 7.3
+    <br>MySQL 8 - PHP 8.3 - Symfony 7.3
+    <br>
     <br>Page d'accueil : manque noms
     <br>Liste des dépôts : ✅
+    <br>Module tournée : ✅
+    <br>Calendriers : ❌
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
@@ -500,9 +509,13 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   </th>
   <td>https://gitlab.univ-lorraine.fr/erraes5u/sae-5
     <br>50 commits (03/12/2025) 32 Dubreuil / 18 Erraes
-    <br>docker : ✅
-    <br>Base de données : PostgreSQL 18.0
-    <br>Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ✅
+    <br>
+    <br>docker : ❌ (Problème Cloudflare)
+    <br>PostgreSQL 18.0
+    <br>
+    <br>Liste des dépôts : ✅
+    <br>Itinéraire : ✅
+    <br>CRUD Tournée : ✅
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">MEHIAOUI Mohamed
