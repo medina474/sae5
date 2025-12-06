@@ -459,10 +459,10 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>CRUD Tournée :
   <br>Liste des dépôts : ✅
   <br>Itinéraire : ✅
-  ![Commits over time](commits/A.png)
-  <br>
-  ![Philippon-Champroux](commits/A1.png)
-  ![Ratti](commits/A1.png)
+
+![Commits over time](commits/A.png)
+![Philippon-Champroux](commits/A1.png)
+![Ratti](commits/A2.png)
   </td>
 </tr>
 <tr>

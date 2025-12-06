@@ -408,7 +408,7 @@ Le prix cible du panier doit être respecté.
 
 Idéalement, il faudrait que chaque saisie d'une recette sur un back office d'un des Jardins de Cocagne alimente une base de données commune. Les modules de recherche des front office de l'ensemble des Jardins iraient piocher dans cette base de données nationale.
 
-![Gâteu de carotte](photos/gateau_carotte.webp)
+![Gâteau de carotte](photos/gateau_carotte.webp)
 
 ## 15. Légalité
 
