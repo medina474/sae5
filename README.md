@@ -450,9 +450,12 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 
 <table>
 <tr>
-  <td>PHILIPPON-CHAMPROUX Florentin<br>RATTI Martin</td>
+  <th style="valign:top">
+  PHILIPPON-CHAMPROUX Florentin
+  <br>RATTI Martin
+  </th>
   <td>https://github.com/flo0s/Cocagne
-  <br>84 commits (27/11/2025)
+  <br>84 commits (27/11/2025) 63 Philippon / 21 Ratti
   <br>docker : ✅
   <br>.Net 9.0 - Blazor
   <br>Base de données : PostgreSQL (17)
@@ -466,8 +469,12 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   </td>
 </tr>
 <tr>
-  <td>MATEJKA Milan<br>MAURICE Simon</td>
+  <th style="valign:top">
+  MATEJKA Milan
+  <br>MAURICE Simon
+  </th>
   <td>https://github.com/VoidOma/SAE5_Developpement_avance
+  <br>18 commits (07/11/2025) (14 Matejka / 4 Maurice)
   <br>docker : ✅
   <br>Base de données : MySQL 8.0
   <br>PHP 8.2 - Symfony 7.3
@@ -475,8 +482,11 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>Module tournée :
   </td></tr>
 <tr>
-  <td>ALVARIZA BILLAR Felipe<br>KANY Thomas</td>
+  <th style="valign:top">
+  ALVARIZA BILLAR Felipe
+  <br>KANY Thomas</th>
   <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
+    <br>30 commits (16/11/2025) 24 Kany / 6 Alvariza
     <br>docker :  ❌<br>
     <i>Unable to write in the "cache" directory (/var/www/html/var/cache/dev).</i>
     <br>Base de données : MySQL 8
@@ -485,22 +495,30 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>Liste des dépôts : ✅
   </td></tr>
 <tr>
-  <td>DUBREUIL Eliot<br>ERRAES Mehdi</td>
+  <th style="valign:top">
+  DUBREUIL Eliot
+  <br>ERRAES Mehdi
+  </th>
   <td>https://gitlab.univ-lorraine.fr/erraes5u/sae-5
+    <br>50 commits (03/12/2025) 32 Dubreuil / 18 Erraes
     <br>docker : ✅
     <br>Base de données : PostgreSQL 18.0
     <br>Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ✅
   </td></tr>
 <tr>
-  <td>MEHIAOUI Mohamed<br>MERIMI Ayat</td>
+  <th style="valign:top">MEHIAOUI Mohamed
+  <br>MERIMI Ayat
+  </th>
   <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
+  <br>50 commits (05/12/2025) 46 Mehiaoui / 4 Merimi
     <br>docker : ✅
     <br>Base de données : PostgreSQL 17.0
     <br>NodeJS 20 - Express
   </td></tr>
 <tr>
-  <td>HERRY Elwyn<br>HERRY	Matteo</td>
+  <th style="valign:top">HERRY Elwyn<br>HERRY	Matteo</th>
   <td>https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
+  <br>15 commits (11/10/2025) 13 Mattéo / 2 Elwyn
   <br>docker :  ✅
   <br>Base de données : MySQL 8.0
   <br>NodeJS 18 - Express
@@ -514,6 +532,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>GAILLIEGUE Ewan <br>VINCENT Teo</td>
   <td>https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
+  <br>14 commits (04/10/2025) 14 Gaillieugue / 0 Vincent
   <br>docker frontend (3000): ✅ backend : ❌ (5000)<br>
   Mettre un reverse proxy pour n'avoir qu'une seule entrée
   <br>Base de données ?
@@ -521,16 +540,18 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   </td>
 </tr>
 <tr>
-  <td>MEHRAZ Chayimaa<br>RIFI 	ZAYNAB</td>
+  <th>MEHRAZ Chayimaa<br>RIFI ZAYNAB</th>
   <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
+    <br>43 commits (27/11/2025) 23 Mehraz / 20 Rifi
     <br>docker : ❌<br>
     <i>file_put_contents(/var/www/html/storage/framework/views/9745f6a6f3fcc1ddd95648c9a006bc71.php): Failed to open stream: Permission denied</i>
     <br>Base de données SQLite
     <br>PHP 8.2 - Laravel 12
   </td></tr>
 <tr>
-  <td>ALGUL Sefer<br>GRANDGIRARD Louis</td>
+  <th>ALGUL Sefer<br>GRANDGIRARD Louis</th>
   <td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5
+  <br>42 commits (04/12/2025) 30 Algul / 12 Grandgirard
   <br>docker : ❌<br>
     <i>Unable to create the "cache" directory (/var/www/html/var/cache/dev).</i>
   <br>Base de données : MySQL 8.0
@@ -540,6 +561,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <td>COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></td>
   <td>https://github.com/MattheoCo/JardinDeCocagne
+  <br>30 commits (12/10/2025) 26 Cognet / 4 Becerra
   <br>docker : ❌<br>
   <i>Unable to create the "cache" directory (/var/www/html/var/cache/dev).</i>
   <br>Base de données : PostgreSQL 16
