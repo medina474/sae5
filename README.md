@@ -450,7 +450,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 
 <table>
 <tr>
-  <th style="valign:top">
+  <th style="valign:top;text-align:start">
   PHILIPPON-CHAMPROUX Florentin
   <br>RATTI Martin
   </th>
@@ -469,7 +469,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   </td>
 </tr>
 <tr>
-  <th style="valign:top">
+  <th style="valign:top;text-align:start">
   MATEJKA Milan
   <br>MAURICE Simon
   </th>
@@ -482,7 +482,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>Module tournée :
   </td></tr>
 <tr>
-  <th style="valign:top">
+  <th style="valign:top;text-align:start">
   ALVARIZA BILLAR Felipe
   <br>KANY Thomas</th>
   <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
@@ -495,7 +495,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>Liste des dépôts : ✅
   </td></tr>
 <tr>
-  <th style="valign:top">
+  <th style="valign:top;text-align:start">
   DUBREUIL Eliot
   <br>ERRAES Mehdi
   </th>
@@ -506,7 +506,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>Liste des dépôts : ✅ Itinéraire : ✅ crud Tournée : ✅
   </td></tr>
 <tr>
-  <th style="valign:top">MEHIAOUI Mohamed
+  <th style="valign:top;text-align:start">MEHIAOUI Mohamed
   <br>MERIMI Ayat
   </th>
   <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
@@ -516,7 +516,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>NodeJS 20 - Express
   </td></tr>
 <tr>
-  <th style="valign:top">HERRY Elwyn<br>HERRY	Matteo</th>
+  <th style="valign:top;text-align:start">HERRY Elwyn<br>HERRY	Matteo</th>
   <td>https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
   <br>15 commits (11/10/2025) 13 Mattéo / 2 Elwyn
   <br>docker :  ✅
@@ -530,7 +530,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 
 <table>
 <tr>
-  <td>GAILLIEGUE Ewan <br>VINCENT Teo</td>
+  <th style="valign:top;text-align:start">GAILLIEGUE Ewan <br>VINCENT Teo</th>
   <td>https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
   <br>14 commits (04/10/2025) 14 Gaillieugue / 0 Vincent
   <br>docker frontend (3000): ✅ backend : ❌ (5000)<br>
@@ -540,7 +540,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   </td>
 </tr>
 <tr>
-  <th>MEHRAZ Chayimaa<br>RIFI ZAYNAB</th>
+  <th style="valign:top;text-align:start">MEHRAZ Chayimaa<br>RIFI ZAYNAB</th>
   <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
     <br>43 commits (27/11/2025) 23 Mehraz / 20 Rifi
     <br>docker : ❌<br>
@@ -549,7 +549,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>PHP 8.2 - Laravel 12
   </td></tr>
 <tr>
-  <th>ALGUL Sefer<br>GRANDGIRARD Louis</th>
+  <th style="valign:top;text-align:start">ALGUL Sefer<br>GRANDGIRARD Louis</th>
   <td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5
   <br>42 commits (04/12/2025) 30 Algul / 12 Grandgirard
   <br>docker : ❌<br>
@@ -559,7 +559,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   </td>
 </tr>
 <tr>
-  <td>COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></td>
+  <th style="valign:top;text-align:start">COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></th>
   <td>https://github.com/MattheoCo/JardinDeCocagne
   <br>30 commits (12/10/2025) 26 Cognet / 4 Becerra
   <br>docker : ❌<br>
