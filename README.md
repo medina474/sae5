@@ -494,7 +494,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
     <br>30 commits (16/11/2025) 24 Kany / 6 Alvariza
     <br>
-    <br>docker :  ✅<br>
+    <br>docker :  ✅
     <br>MySQL 8 - PHP 8.3 - Symfony 7.3
     <br>
     <br>Page d'accueil : manque noms
@@ -510,7 +510,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>https://gitlab.univ-lorraine.fr/erraes5u/sae-5
     <br>50 commits (03/12/2025) 32 Dubreuil / 18 Erraes
     <br>
-    <br>docker : ❌ (Problème Cloudflare)
+    <br>docker : ✅
     <br>PostgreSQL 18.0
     <br>
     <br>Liste des dépôts : ✅
@@ -553,7 +553,10 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <th style="vertical-align:top;text-align:start">GAILLIEGUE Ewan <br>VINCENT Teo</th>
   <td>https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
   <br>14 commits (04/10/2025) 14 Gaillieugue / 0 Vincent
-  <br>docker frontend (3000): ✅ backend : ❌ (5000)<br>
+  <br>
+  <br>docker frontend (3000): ✅ backend : ❌ (5000)
+  <br>
+  <br>
   Mettre un reverse proxy pour n'avoir qu'une seule entrée
   <br>Base de données ?
   <br>NodeJS 18 - Express
@@ -587,11 +590,11 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 <tr>
   <th style="vertical-align:top;text-align:start">COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></th>
   <td>https://github.com/MattheoCo/JardinDeCocagne
-  <br>30 commits (12/10/2025) 26 Cognet / 4 Becerra
-  <br>docker : ❌<br>
-  <i>HP Fatal error:  Uncaught Error: Failed opening required '/var/www/html/vendor/autoload_runtime.php' (include_path='.:/usr/local/lib/php') in /var/www/html/public/index.php:5\nStack trace:\n#0 {main}\n  thrown in /var/www/html/public/index.php on line 5</i>
-  <br>Base de données : PostgreSQL 16
-  <br>PHP 8.3 - Symfony 6.1</td></tr>
+  <br>33 commits (11/12/2025) 26 Cognet / 7 Becerra
+  <br>docker : ✅
+  <br>PostgreSQL 16 - PHP 8.3 - Symfony 6.1
+  <br>Page d'accueil : ✅
+  </td></tr>
 </table>
 
 ### Apprentis Insertion professionnelle (2 groupes)
