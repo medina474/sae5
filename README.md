@@ -455,18 +455,18 @@ Groupe | Dépôt
 [PHILIPPON-CHAMPROUX Florentin ; RATTI Martin](2025/philippon-ratti.md) | https://github.com/flo0s/Cocagne
 [MATEJKA Milan ; MAURICE Simon](2025/matejka-maurice.md) | https://github.com/VoidOma/SAE5_Developpement_avance
 [ALVARIZA BILLAR Felipe ; KANY Thomas](2025/alvariza-kany.md) | https://github.com/tureisss/Sae5_Jardin_de_Cocagne
-[DUBREUIL Eliot ; ERRAES Mehdi](2025/) | https://gitlab.univ-lorraine.fr/erraes5u/sae-5
-[MEHIAOUI Mohamed ; MERIMI Ayat](2025/) | https://github.com/MehiaouiMoh/SAE5_JardinCocagne
-[HERRY Elwyn ; HERRY	Matteo](2025/) | https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
+[DUBREUIL Eliot ; ERRAES Mehdi](2025/dubreuil-erraes.md) | https://gitlab.univ-lorraine.fr/erraes5u/sae-5
+[MEHIAOUI Mohamed ; MERIMI Ayat](2025/mehiaoui-merimi.md) | https://github.com/MehiaouiMoh/SAE5_JardinCocagne
+[HERRY Elwyn ; HERRY	Matteo](2025/herry-herry.md) | https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
 
 ### Poursuite d'études (4 groupes)
 
 Groupe | Dépôt
 ---    |---
-[GAILLIEGUE Ewan ; VINCENT Teo](2025/) | https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
-[MEHRAZ Chayimaa ; RIFI ZAYNAB](2025/) | https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
-[ALGUL Sefer ; GRANDGIRARD Louis](2025/) | https://gitlab.univ-lorraine.fr/algul12u/sae-s5
-[COGNET Mattheo ; BECERRA BARBA Erik <sup>(IP)</sup>](2025/) | https://github.com/MattheoCo/JardinDeCocagne
+[GAILLIEGUE Ewan ; VINCENT Teo](2025/gailliegue-vincent.md) | https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
+[MEHRAZ Chayimaa ; RIFI ZAYNAB](2025/mehraz-rifi.md) | https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
+[ALGUL Sefer ; GRANDGIRARD Louis](2025/algul-grandgirard.md) | https://gitlab.univ-lorraine.fr/algul12u/sae-s5
+[COGNET Mattheo ; BECERRA BARBA Erik <sup>(IP)</sup>](2025/cognet-becerra.md) | https://github.com/MattheoCo/JardinDeCocagne
 
 <table>
 <tr>
