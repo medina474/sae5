@@ -524,7 +524,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>MySQL 8.0 - NodeJS 18 - Express
   <br>
   Liste des dépôts : ✅ crud tournée : ✅ ordre par glisser-déposer : ✅
-  <br>[Commentaires](commits/2025.md#mehiaoui-mohamed--merimi-ayat)
+  <br>[Commentaires](commits/2025.md#herry-elwyn--herry-matteo)
   </td></tr>
 </table>
 
@@ -538,7 +538,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>
   <br>docker frontend (3000): ✅ backend : ❌ (5000)
   <br>
-  <br>
+  <br>[Commentaires](commits/2025.md#gailliegue-ewan--vincent-teo)
   Mettre un reverse proxy pour n'avoir qu'une seule entrée
   <br>Base de données ?
   <br>NodeJS 18 - Express
@@ -561,11 +561,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>docker : ✅
   <br>MySQL 8.0 - PHP 8.3 - Symfony 7.3
   <br>
-  <br>Page d'accueil : ✅
-    <br>Liste des dépôts : ✅
-    <br>CRUD Tournée : ✅
-    <br>Légumes: ✅
-    <br>Module composition: ✅
+  <br>[Commentaires](commits/2025.md#algul-sefer--grandgirard-louis)
   </td>
 </tr>
 <tr>
@@ -574,7 +570,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>33 commits (11/12/2025) 26 Cognet / 7 Becerra
   <br>docker : ✅
   <br>PostgreSQL 16 - PHP 8.3 - Symfony 6.1
-  <br>Page d'accueil : ✅
+  <br>[Commentaires](commits/2025.md#cognet-mattheo--becerra-barba-erik)
   </td></tr>
 </table>
 
