@@ -452,27 +452,22 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 
 Groupe | Dépôt
 ---    |---
-[PHILIPPON-CHAMPROUX Florentin ; RATTI Martin](2025/philippon-ratti.md) | https://github.com/flo0s/Cocagne 
+[PHILIPPON-CHAMPROUX Florentin ; RATTI Martin](2025/philippon-ratti.md) | https://github.com/flo0s/Cocagne
+[MATEJKA Milan ; MAURICE Simon](2025/matejka-maurice.md) | https://github.com/VoidOma/SAE5_Developpement_avance
+[ALVARIZA BILLAR Felipe ; KANY Thomas](2025/alvariza-kany.md) | https://github.com/tureisss/Sae5_Jardin_de_Cocagne
+[DUBREUIL Eliot ; ERRAES Mehdi](2025/) | https://gitlab.univ-lorraine.fr/erraes5u/sae-5
+[MEHIAOUI Mohamed ; MERIMI Ayat](2025/) | https://github.com/MehiaouiMoh/SAE5_JardinCocagne
+[HERRY Elwyn ; HERRY	Matteo](2025/) | https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
+[GAILLIEGUE Ewan ; VINCENT Teo](2025/) | https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
+[MEHRAZ Chayimaa ; RIFI ZAYNAB](2025/) | https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
+[ALGUL Sefer ; GRANDGIRARD Louis](2025/) | https://gitlab.univ-lorraine.fr/algul12u/sae-s5
+[COGNET Mattheo ; BECERRA BARBA Erik <sup>(IP)</sup>](2025/) | https://github.com/MattheoCo/JardinDeCocagne
 
 <table>
 <tr>
   <th style="vertical-align:top;text-align:start">
-  MATEJKA Milan
-  <br>MAURICE Simon
   </th>
-  <td>https://github.com/VoidOma/SAE5_Developpement_avance
-  <br>18 commits (07/11/2025) (14 Matejka / 4 Maurice)
-  <br>
-  <br>docker : ✅
-  <br>MySQL 8.0 - PHP 8.2 - Symfony 7.3
-
-  [Commentaires](2025/README.md#matejka-milan--maurice-simon)
-  </td></tr>
-<tr>
-  <th style="vertical-align:top;text-align:start">
-  ALVARIZA BILLAR Felipe
-  <br>KANY Thomas</th>
-  <td>https://github.com/tureisss/Sae5_Jardin_de_Cocagne
+  <td>
     <br>30 commits (16/11/2025) 24 Kany / 6 Alvariza
     <br>
     <br>docker :  ✅
@@ -483,10 +478,9 @@ Groupe | Dépôt
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
-  DUBREUIL Eliot
-  <br>ERRAES Mehdi
+
   </th>
-  <td>https://gitlab.univ-lorraine.fr/erraes5u/sae-5
+  <td>
     <br>50 commits (03/12/2025) 32 Dubreuil / 18 Erraes
     <br>
     <br>docker : ✅
@@ -496,10 +490,9 @@ Groupe | Dépôt
     [Commentaires](2025/README.md#dubreuil-eliot--erraes-mehdi)
   </td></tr>
 <tr>
-  <th style="vertical-align:top;text-align:start">MEHIAOUI Mohamed
-  <br>MERIMI Ayat
+  <th style="vertical-align:top;text-align:start">
   </th>
-  <td>https://github.com/MehiaouiMoh/SAE5_JardinCocagne
+  <td>
   <br>50 commits (05/12/2025) 46 Mehiaoui / 4 Merimi
   <br>
     <br>docker : ✅
@@ -509,8 +502,8 @@ Groupe | Dépôt
     [Commentaires](2025/README.md#mehiaoui-mohamed--merimi-ayat)
   </td></tr>
 <tr>
-  <th style="vertical-align:top;text-align:start">HERRY Elwyn<br>HERRY	Matteo</th>
-  <td>https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
+  <th style="vertical-align:top;text-align:start"></th>
+  <td>
   <br>15 commits (11/10/2025) 13 Mattéo / 2 Elwyn
   <br>
   <br>docker :  ✅
@@ -525,8 +518,8 @@ Groupe | Dépôt
 
 <table>
 <tr>
-  <th style="vertical-align:top;text-align:start">GAILLIEGUE Ewan <br>VINCENT Teo</th>
-  <td>https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
+  <th style="vertical-align:top;text-align:start"></th>
+  <td>
   <br>14 commits (04/10/2025) 14 Gaillieugue / 0 Vincent
   <br>
   <br>docker frontend (3000): ✅ backend : ❌ (5000)
@@ -540,14 +533,14 @@ Groupe | Dépôt
   </td>
 </tr>
 <tr>
-  <th style="vertical-align:top;text-align:start">MEHRAZ Chayimaa<br>RIFI ZAYNAB</th>
-  <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
+  <th style="vertical-align:top;text-align:start"></th>
+  <td>
     [Commentaires](2025/README.md#mehraz-chayimaa--rifi-zaynab)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
-  ALGUL Sefer<br>GRANDGIRARD Louis</th>
-  <td>https://gitlab.univ-lorraine.fr/algul12u/sae-s5
+  </th>
+  <td>
   <br>42 commits (04/12/2025) 30 Algul / 12 Grandgirard
   <br>
   <br>docker : ✅
@@ -558,8 +551,8 @@ Groupe | Dépôt
   </td>
 </tr>
 <tr>
-  <th style="vertical-align:top;text-align:start">COGNET Mattheo<br>BECERRA BARBA Erik <sup>(IP)</sup></th>
-  <td>https://github.com/MattheoCo/JardinDeCocagne
+  <th style="vertical-align:top;text-align:start"></th>
+  <td>
   <br>33 commits (11/12/2025) 26 Cognet / 7 Becerra
   <br>docker : ✅
   <br>PostgreSQL 16 - PHP 8.3 - Symfony 6.1

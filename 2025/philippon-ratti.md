@@ -11,6 +11,8 @@ Liste des dépôts         | ✅ Liste
 CRUD Tournées            | ✅ Liste , bouton trop gros, problème de style, Edit : Sélection des couleur pas intuitive, gros espace blanc sous les couleurs, Zone de saisie peu visible, pas d'espace entre Identifiant et titre du jour de livraison , moitié français moitié anglais ; Monter / Descendre ne fonctionne pas correctement ; Remove ne fonctionne pas ; Erreur dans console lors du changement de dépot
 Calendrier            | ✅
 
+## Activité
+
 Auteur    | Semaine | Commits|     + |     - | Files |
 ----------|---------|-------:|------:|------:|------:|
 Philippon |2025-40  |     10 |   533 |    21 |    16 |
