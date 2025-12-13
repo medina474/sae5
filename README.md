@@ -501,7 +501,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>docker : ✅
     <br>PostgreSQL 18.0
     <br>
-    [Commentaires](commits/2025.md#alvariza-billar-felipe--kany-thomas)
+    [Commentaires](commits/2025.md#dubreuil-eliot--erraes-mehdi)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">MEHIAOUI Mohamed
@@ -513,10 +513,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>docker : ✅
     <br>PostgreSQL 17.0 - NodeJS 20 - Express
     <br>
-    <br>Page d'accueil : manque noms
-    <br>Liste des dépôts : ✅
-    <br>CRUD Tournée : ❌
-    <br>Calendriers: ❌
+    [Commentaires](commits/2025.md#mehiaoui-mohamed--merimi-ayat)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">HERRY Elwyn<br>HERRY	Matteo</th>
@@ -527,8 +524,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>MySQL 8.0 - NodeJS 18 - Express
   <br>
   Liste des dépôts : ✅ crud tournée : ✅ ordre par glisser-déposer : ✅
-  <br>CRUD Tournée : ❌
-    <br>Calendriers: ❌
+  <br>[Commentaires](commits/2025.md#mehiaoui-mohamed--merimi-ayat)
   </td></tr>
 </table>
 
