@@ -443,6 +443,8 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 - Ajouter un fichier _.gitignore_ adapté pour éviter d'inclure les fichiers temporaires ou cache
 - Utiliser un réseau interne pour la communication entre services
 - Si vous avez différents services à exposer, n'utiliser pas des ports multiples mais un [reverse proxy](https://sources.neotech.fr/Universite/tp/src/branch/main/reverse_proxy.md)
+- Compte par défaut : si l'accès à vos pages d'administration sont protégées, utilisez le compte admin avec le mot de passe sae5.
+
 
 ## Groupes
 
@@ -460,15 +462,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>docker : ✅
   <br>PostgreSQL (17) - .Net 9.0 - Blazor
   <br>
-  <br>Page d'accueil avec noms : ✅
-  <br>Liste des dépôts : ✅
-  <br>CRUD Tournée : ✅
-  <br>Itinéraire : ✅
-  <br>Calendriers : ✅
-
-![Commits over time](commits/A.png)
-![Philippon-Champroux](commits/A1.png)
-![Ratti](commits/A2.png)
+  [Commentaires]()
   </td>
 </tr>
 <tr>
@@ -482,10 +476,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>docker : ✅
   <br>MySQL 8.0 - PHP 8.2 - Symfony 7.3
   <br>
-  <br>Page d'accueil : ✅
-  <br>Liste des dépôts : Base table or view not found: 1146 Table 'sae5.depot' doesn't exist
-  <br>Module tournée : Base table or view not found: 1146 Table 'sae5.tournee' doesn't exist
-  <br>Calendriers : ❌
+  [Commentaires]()
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
@@ -497,10 +488,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>docker :  ✅
     <br>MySQL 8 - PHP 8.3 - Symfony 7.3
     <br>
-    <br>Page d'accueil : manque noms
-    <br>Liste des dépôts : ✅
-    <br>Module tournée : ✅
-    <br>Calendriers : ❌
+    [Commentaires]()
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
