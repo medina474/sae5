@@ -459,10 +459,8 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <td>https://github.com/flo0s/Cocagne
   <br>84 commits (27/11/2025) 63 Philippon / 21 Ratti
   <br>
-  <br>docker : ✅
-  <br>PostgreSQL (17) - .Net 9.0 - Blazor
-  <br>
-  [Commentaires](commits/2025.md#philippon-champroux-florentin--ratti-martin)
+
+  [Commentaires](2025/README.md#philippon-champroux-florentin--ratti-martin)
   </td>
 </tr>
 <tr>
@@ -475,8 +473,8 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>
   <br>docker : ✅
   <br>MySQL 8.0 - PHP 8.2 - Symfony 7.3
-  <br>
-  [Commentaires](commits/2025.md#matejka-milan--maurice-simon)
+
+  [Commentaires](2025/README.md#matejka-milan--maurice-simon)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
@@ -488,7 +486,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>docker :  ✅
     <br>MySQL 8 - PHP 8.3 - Symfony 7.3
     <br>
-    [Commentaires](commits/2025.md#alvariza-billar-felipe--kany-thomas)
+    [Commentaires](2025/README.md#alvariza-billar-felipe--kany-thomas)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
@@ -501,7 +499,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>docker : ✅
     <br>PostgreSQL 18.0
     <br>
-    [Commentaires](commits/2025.md#dubreuil-eliot--erraes-mehdi)
+    [Commentaires](2025/README.md#dubreuil-eliot--erraes-mehdi)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">MEHIAOUI Mohamed
@@ -513,7 +511,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>docker : ✅
     <br>PostgreSQL 17.0 - NodeJS 20 - Express
     <br>
-    [Commentaires](commits/2025.md#mehiaoui-mohamed--merimi-ayat)
+    [Commentaires](2025/README.md#mehiaoui-mohamed--merimi-ayat)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">HERRY Elwyn<br>HERRY	Matteo</th>
@@ -524,7 +522,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>MySQL 8.0 - NodeJS 18 - Express
   <br>
   Liste des dépôts : ✅ crud tournée : ✅ ordre par glisser-déposer : ✅
-  <br>[Commentaires](commits/2025.md#herry-elwyn--herry-matteo)
+  <br>[Commentaires](2025/README.md#herry-elwyn--herry-matteo)
   </td></tr>
 </table>
 
@@ -538,7 +536,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>
   <br>docker frontend (3000): ✅ backend : ❌ (5000)
   <br>
-  <br>[Commentaires](commits/2025.md#gailliegue-ewan--vincent-teo)
+  <br>[Commentaires](2025/README.md#gailliegue-ewan--vincent-teo)
   Mettre un reverse proxy pour n'avoir qu'une seule entrée
   <br>Base de données ?
   <br>NodeJS 18 - Express
@@ -561,7 +559,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>docker : ✅
   <br>MySQL 8.0 - PHP 8.3 - Symfony 7.3
   <br>
-  <br>[Commentaires](commits/2025.md#algul-sefer--grandgirard-louis)
+  <br>[Commentaires](2025/README.md#algul-sefer--grandgirard-louis)
   </td>
 </tr>
 <tr>
@@ -570,7 +568,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>33 commits (11/12/2025) 26 Cognet / 7 Becerra
   <br>docker : ✅
   <br>PostgreSQL 16 - PHP 8.3 - Symfony 6.1
-  <br>[Commentaires](commits/2025.md#cognet-mattheo--becerra-barba-erik)
+  <br>[Commentaires](2025/README.md#cognet-mattheo--becerra-barba-erik)
   </td></tr>
 </table>
 

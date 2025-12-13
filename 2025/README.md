@@ -2,14 +2,16 @@
 
 ### PHILIPPON-CHAMPROUX Florentin ; RATTI Martin
 
+- PostgreSQL (17)
+- .Net 9.0
+- Blazor
+
 Partie |Commentaires
 ---    |---
 Page d'accueil avec noms | ✅ Logo un peu gros, problème d'alignement du menu, noms pas lisibles dans en tête, page simple
 Liste des dépôts         | ✅ Liste
 CRUD Tournées            | ✅ Liste , bouton trop gros, problème de style, Edit : Sélection des couleur pas intuitive, gros espace blanc sous les couleurs, Zone de saisie peu visible, pas d'espace entre Identifiant et titre du jour de livraison , moitié français moitié anglais ; Monter / Descendre ne fonctionne pas correctement ; Remove ne fonctionne pas ; Erreur dans console lors du changement de dépot
-Agenda            | ✅
-
-
+Calendrier            | ✅
 
 Auteur    | Semaine | Commits|     + |     - | Files |
 ----------|---------|-------:|------:|------:|------:|
@@ -36,6 +38,11 @@ Ratti     |2025-W48 |      3 |    29 |    18 |     2 |
 Ratti     |TOTAL    |     24 | 61256 |   377 |    85 |
 ----------|---------|--------|-------|-------|-------|
 DEPOT     |TOTAL    |     84 | 64540 |   900 |   111 |
+
+![Accueil](philippon-ratti-1.png)
+![Accueil](philippon-ratti-2.png)
+![Accueil](philippon-ratti-3.png)
+![Accueil](philippon-ratti-4.png)
 
 ### MATEJKA Milan ; MAURICE Simon
 
