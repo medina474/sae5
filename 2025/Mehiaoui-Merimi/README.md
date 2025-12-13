@@ -1,5 +1,9 @@
 # MEHIAOUI Mohamed ; MERIMI Ayat
 
+- PostgreSQL 17.0
+- Node.js 20
+- Express
+
 ## Activité
 
 Auteur    | Semaine | Commits|     + |     - | Files |

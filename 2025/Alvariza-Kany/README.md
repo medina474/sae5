@@ -1,5 +1,9 @@
 # ALVARIZA BILLAR Felipe ; KANY Thomas
 
+- MySQL 8
+- PHP 8.3
+- Symfony 7.3
+
 # Activité
 
 Partie |Commentaires

@@ -1,5 +1,8 @@
 # GAILLIEGUE Ewan ; VINCENT Teo
 
+- Node.js 18
+- Express
+
 ## Activité
 
 Auteur    | Semaine | Commits|     + |     - | Files |

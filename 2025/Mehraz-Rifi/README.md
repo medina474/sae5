@@ -1,8 +1,12 @@
 # MEHRAZ Chayimaa ; RIFI ZAYNAB
 
-- Base de données SQLite
+- SQLite
 - PHP 8.2
 - Laravel 12
+
+## Rendus
+
+- [Benchmark](mehraz-rifi-benchmark.pdf)
 
 ## Activité
 

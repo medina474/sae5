@@ -452,12 +452,12 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 
 Groupe | Dépôt
 ---    |---
-[PHILIPPON-CHAMPROUX Florentin ; RATTI Martin](2025/philippon-ratti.md) | https://github.com/flo0s/Cocagne
-[MATEJKA Milan ; MAURICE Simon](2025/matejka-maurice.md) | https://github.com/VoidOma/SAE5_Developpement_avance
-[ALVARIZA BILLAR Felipe ; KANY Thomas](2025/alvariza-kany.md) | https://github.com/tureisss/Sae5_Jardin_de_Cocagne
-[DUBREUIL Eliot ; ERRAES Mehdi](2025/dubreuil-erraes.md) | https://gitlab.univ-lorraine.fr/erraes5u/sae-5
-[MEHIAOUI Mohamed ; MERIMI Ayat](2025/mehiaoui-merimi.md) | https://github.com/MehiaouiMoh/SAE5_JardinCocagne
-[HERRY Elwyn ; HERRY	Matteo](2025/herry-herry.md) | https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
+[PHILIPPON-CHAMPROUX Florentin ; RATTI Martin](2025/Philippon-Ratti/) | https://github.com/flo0s/Cocagne
+[MATEJKA Milan ; MAURICE Simon](2025/Matejka-Maurice/) | https://github.com/VoidOma/SAE5_Developpement_avance
+[ALVARIZA BILLAR Felipe ; KANY Thomas](2025/Alvariza-Kany/) | https://github.com/tureisss/Sae5_Jardin_de_Cocagne
+[DUBREUIL Eliot ; ERRAES Mehdi](2025/Dubreuil-Erraes/) | https://gitlab.univ-lorraine.fr/erraes5u/sae-5
+[MEHIAOUI Mohamed ; MERIMI Ayat](2025/Mehiaoui-Merimi/) | https://github.com/MehiaouiMoh/SAE5_JardinCocagne
+[HERRY Elwyn ; HERRY	Matteo](2025/Herry-Herry/) | https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
 
 ### Poursuite d'études (4 groupes)
 
@@ -476,7 +476,7 @@ Groupe | Dépôt
     <br>30 commits (16/11/2025) 24 Kany / 6 Alvariza
     <br>
     <br>docker :  ✅
-    <br>MySQL 8 - PHP 8.3 - Symfony 7.3
+    <br>
     <br>
 
     [Commentaires](2025/README.md#alvariza-billar-felipe--kany-thomas)
@@ -501,7 +501,7 @@ Groupe | Dépôt
   <br>50 commits (05/12/2025) 46 Mehiaoui / 4 Merimi
   <br>
     <br>docker : ✅
-    <br>PostgreSQL 17.0 - NodeJS 20 - Express
+    <br>
     <br>
 
     [Commentaires](2025/README.md#mehiaoui-mohamed--merimi-ayat)
@@ -512,7 +512,7 @@ Groupe | Dépôt
   <br>15 commits (11/10/2025) 13 Mattéo / 2 Elwyn
   <br>
   <br>docker :  ✅
-  <br>MySQL 8.0 - NodeJS 18 - Express
+  <br>MySQL 8.0 - Node.js 18 - Express
   <br>
 
   [Commentaires](2025/README.md#herry-elwyn--herry-matteo)
@@ -532,7 +532,7 @@ Groupe | Dépôt
   <br>[Commentaires](2025/README.md#gailliegue-ewan--vincent-teo)
   Mettre un reverse proxy pour n'avoir qu'une seule entrée
   <br>Base de données ?
-  <br>NodeJS 18 - Express
+  <br>
 
   [Commentaires](2025/README.md#gailliegue-ewan--vincent-teo)
   </td>
