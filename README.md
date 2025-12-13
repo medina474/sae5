@@ -462,7 +462,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>docker : ✅
   <br>PostgreSQL (17) - .Net 9.0 - Blazor
   <br>
-  [Commentaires]()
+  [Commentaires](commits/2025.md#philippon-champroux-florentin--ratti-martin)
   </td>
 </tr>
 <tr>
@@ -476,7 +476,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>docker : ✅
   <br>MySQL 8.0 - PHP 8.2 - Symfony 7.3
   <br>
-  [Commentaires](commits/2025.md#philippon-champroux-florentin--ratti-martin)
+  [Commentaires](commits/2025.md#matejka-milan--maurice-simon)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
@@ -488,7 +488,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>docker :  ✅
     <br>MySQL 8 - PHP 8.3 - Symfony 7.3
     <br>
-    [Commentaires]()
+    [Commentaires](commits/2025.md#alvariza-billar-felipe--kany-thomas)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
@@ -501,9 +501,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
     <br>docker : ✅
     <br>PostgreSQL 18.0
     <br>
-    <br>Liste des dépôts : ✅
-    <br>Itinéraire : ✅
-    <br>CRUD Tournée : ✅
+    [Commentaires](commits/2025.md#alvariza-billar-felipe--kany-thomas)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">MEHIAOUI Mohamed
@@ -554,8 +552,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <th style="vertical-align:top;text-align:start">MEHRAZ Chayimaa<br>RIFI ZAYNAB</th>
   <td>https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
     <br>43 commits (27/11/2025) 23 Mehraz / 20 Rifi
-    <br>docker : ❌<br>
-    <i>file_put_contents(/var/www/html/storage/framework/views/9745f6a6f3fcc1ddd95648c9a006bc71.php): Failed to open stream: Permission denied</i>
+    <br>docker : ✅
     <br>Base de données SQLite
     <br>PHP 8.2 - Laravel 12
   </td></tr>
