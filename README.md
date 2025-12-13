@@ -458,6 +458,11 @@ Groupe | Dépôt
 [DUBREUIL Eliot ; ERRAES Mehdi](2025/) | https://gitlab.univ-lorraine.fr/erraes5u/sae-5
 [MEHIAOUI Mohamed ; MERIMI Ayat](2025/) | https://github.com/MehiaouiMoh/SAE5_JardinCocagne
 [HERRY Elwyn ; HERRY	Matteo](2025/) | https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
+
+### Poursuite d'études (4 groupes)
+
+Groupe | Dépôt
+---    |---
 [GAILLIEGUE Ewan ; VINCENT Teo](2025/) | https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
 [MEHRAZ Chayimaa ; RIFI ZAYNAB](2025/) | https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
 [ALGUL Sefer ; GRANDGIRARD Louis](2025/) | https://gitlab.univ-lorraine.fr/algul12u/sae-s5
@@ -514,7 +519,7 @@ Groupe | Dépôt
   </td></tr>
 </table>
 
-### Poursuite d'études (4 groupes)
+
 
 <table>
 <tr>
@@ -554,10 +559,6 @@ Groupe | Dépôt
   <th style="vertical-align:top;text-align:start"></th>
   <td>
   <br>33 commits (11/12/2025) 26 Cognet / 7 Becerra
-  <br>docker : ✅
-  <br>PostgreSQL 16 - PHP 8.3 - Symfony 6.1
-
-  [Commentaires](2025/README.md#cognet-mattheo--becerra-barba-erik)
   </td></tr>
 </table>
 

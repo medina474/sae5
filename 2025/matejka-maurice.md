@@ -12,6 +12,7 @@ Tournées         | Loin d'être terminé
 Calendriers      | ❌
 Adhésion         | ❌
 
+## Activité
 
 Auteur    | Semaine | Commits|     + |     - | Files |
 ----------|---------|-------:|------:|------:|------:|
