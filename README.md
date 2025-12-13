@@ -476,7 +476,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
   <br>docker : ✅
   <br>MySQL 8.0 - PHP 8.2 - Symfony 7.3
   <br>
-  [Commentaires]()
+  [Commentaires](commits/2025.md#philippon-champroux-florentin--ratti-martin)
   </td></tr>
 <tr>
   <th style="vertical-align:top;text-align:start">
