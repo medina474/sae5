@@ -471,27 +471,16 @@ COGNET Mattheo ; BECERRA BARBA Erik <sup>(IP)</sup>|[Voir](2025/Cognet-Becerra/)
 
 ### Apprentis Insertion professionnelle (2 groupes)
 
-<table>
-<tr>
-  <td>COLIN Gabin<br>DE RYCKE Leanne</td>
-  <td>https://gitlab.univ-lorraine.fr/derycke4u/sae-5-colin-derycke</td>
-</tr>
-<tr>
-  <td>DESERT Romain<br>NIRRENGARTEN Tom</td><td>https://github.com/Rom444d/SAE-5</td>
-</tr>
-</table>
+Groupe | Dépôt
+---    |---
+COLIN Gabin ; DE RYCKE Leanne | https://gitlab.univ-lorraine.fr/derycke4u/sae-5-colin-derycke</td>
+DESERT Romain ; NIRRENGARTEN Tom | https://github.com/Rom444d/SAE-5
 
 ### Apprentis Poursuite d'Études (4 groupes)
 
-<table>
-<tr>
-  <td>GIL Jérémie<br>PETRAZOLLER Johan</td>
-</tr>
-<tr>
-  <td>NGUYEN Quang-Liem<br>RALLI	Clément</td></tr>
-<tr>
-  <td>DUFOUR Louise<br>MARTIN Mathis</td></tr>
-<tr>
-  <td>ROBAIL Alexandre</td>
-</tr>
-</table>
+Groupe | Dépôt
+---    |---
+GIL Jérémie ; PETRAZOLLER Johan |
+NGUYEN Quang-Liem ; RALLI	Clément |
+DUFOUR Louise ; MARTIN Mathis |
+ROBAIL Alexandre |

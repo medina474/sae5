@@ -4,6 +4,11 @@
 - PHP 8.3
 - Symfony 6.1
 
+## Rendus
+
+- [Benchmark](cognet-benchmark.md) Cognets
+- [Cahier des charges technique](cognet-barba-technique.md)
+
 ## Activité
 
 Auteur    | Semaine | Commits|     + |     - | Files |

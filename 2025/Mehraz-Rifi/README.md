@@ -7,6 +7,7 @@
 ## Rendus
 
 - [Benchmark](mehraz-rifi-benchmark.pdf)
+- [Cahier des charges technique](mehraz-rifi-technique.md)
 
 ## Activité
 

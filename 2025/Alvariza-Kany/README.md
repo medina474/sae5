@@ -4,7 +4,12 @@
 - PHP 8.3
 - Symfony 7.3
 
-# Activité
+## Rendus
+
+- [Benchmark](algul-grandgirard-benchmark.md)
+- [Cahier des charges technique](algul-grandgirard-technique.md)
+
+## Activité
 
 Partie |Commentaires
 ---    |---

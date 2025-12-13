@@ -15,6 +15,7 @@ Adhésion         | ❌
 ## Rendus
 
 - [Benchmark](matejka-maurice-benchmark.md)
+- [Cahier des charges technique](matejka-maurice-technique.md)
 
 ## Activité
 

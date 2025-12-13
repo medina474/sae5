@@ -13,6 +13,7 @@ Adhésion         | ✅
 ## Rendus
 
 - [Benchmark](dubreuil-erraes-benchmark.md)
+- [Cahier des charges technique](dubreuil-erraes-technique.md)
 
 ## Activité
 

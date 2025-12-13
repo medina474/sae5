@@ -4,6 +4,11 @@
 - Node.js 18
 - Express
 
+## Rendus
+
+- [Benchmark](herry-herry-benchmark.md)
+- [Cahier des charges technique](herry-herry-technique.md)
+
 ## Activité
 
 Auteur    | Semaine | Commits|     + |     - | Files |
