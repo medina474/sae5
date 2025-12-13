@@ -450,23 +450,23 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 
 ### Insertion Professionnelle (6 groupes)
 
-Groupe | Dépôt
----    |---
-[PHILIPPON-CHAMPROUX Florentin ; RATTI Martin](2025/Philippon-Ratti/) | https://github.com/flo0s/Cocagne
-[MATEJKA Milan ; MAURICE Simon](2025/Matejka-Maurice/) | https://github.com/VoidOma/SAE5_Developpement_avance
-[ALVARIZA BILLAR Felipe ; KANY Thomas](2025/Alvariza-Kany/) | https://github.com/tureisss/Sae5_Jardin_de_Cocagne
-[DUBREUIL Eliot ; ERRAES Mehdi](2025/Dubreuil-Erraes/) | https://gitlab.univ-lorraine.fr/erraes5u/sae-5
-[MEHIAOUI Mohamed ; MERIMI Ayat](2025/Mehiaoui-Merimi/) | https://github.com/MehiaouiMoh/SAE5_JardinCocagne
-[HERRY Elwyn ; HERRY	Matteo](2025/Herry-Herry/) | https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
+Groupe | Dossier | Dépôt
+---    |---      |---
+PHILIPPON-CHAMPROUX Florentin ; RATTI Martin|[Voir](2025/Philippon-Ratti/) | https://github.com/flo0s/Cocagne
+MATEJKA Milan ; MAURICE Simon|[Voir](2025/Matejka-Maurice/) | https://github.com/VoidOma/SAE5_Developpement_avance
+ALVARIZA BILLAR Felipe ; KANY Thomas|[Voir](2025/Alvariza-Kany/) | https://github.com/tureisss/Sae5_Jardin_de_Cocagne
+DUBREUIL Eliot ; ERRAES Mehdi|[Voir](2025/Dubreuil-Erraes/) | https://gitlab.univ-lorraine.fr/erraes5u/sae-5
+MEHIAOUI Mohamed ; MERIMI Ayat|[Voir](2025/Mehiaoui-Merimi/) | https://github.com/MehiaouiMoh/SAE5_JardinCocagne
+HERRY Elwyn ; HERRY	Matteo|[Voir](2025/Herry-Herry/) | https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
 
 ### Poursuite d'études (4 groupes)
 
-Groupe | Dépôt
----    |---
-[GAILLIEGUE Ewan ; VINCENT Teo](2025/gailliegue-vincent.md) | https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
-[MEHRAZ Chayimaa ; RIFI ZAYNAB](2025/mehraz-rifi.md) | https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
-[ALGUL Sefer ; GRANDGIRARD Louis](2025/algul-grandgirard.md) | https://gitlab.univ-lorraine.fr/algul12u/sae-s5
-[COGNET Mattheo ; BECERRA BARBA Erik <sup>(IP)</sup>](2025/cognet-becerra.md) | https://github.com/MattheoCo/JardinDeCocagne
+Groupe | Dossier | Dépôt
+---    |---      |---
+GAILLIEGUE Ewan ; VINCENT Teo|[Voir](2025/Gailliegue-Vincent/) | https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
+MEHRAZ Chayimaa ; RIFI ZAYNAB|[Voir](2025/Mehraz-Rifi/) | https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
+ALGUL Sefer ; GRANDGIRARD Louis|[Voir](2025/Algul-Grandgirard/) | https://gitlab.univ-lorraine.fr/algul12u/sae-s5
+COGNET Mattheo ; BECERRA BARBA Erik <sup>(IP)</sup>|[Voir](2025/Cognet-Becerra/) | https://github.com/MattheoCo/JardinDeCocagne
 
 
 ### Apprentis Insertion professionnelle (2 groupes)
