@@ -1,5 +1,9 @@
 # HERRY Elwyn ; HERRY	Matteo
 
+- MySQL 8.0
+- Node.js 18
+- Express
+
 ## Activité
 
 Auteur    | Semaine | Commits|     + |     - | Files |

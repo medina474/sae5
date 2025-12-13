@@ -1,5 +1,7 @@
 # DUBREUIL Eliot ; ERRAES Mehdi
 
+- PostgreSQL 18.0
+
 Partie           |Commentaires
 ---              |---
 Page d'accueil   | ✅

@@ -1,5 +1,9 @@
 # ALGUL Sefer ; GRANDGIRARD Louis
 
+- MySQL 8.0
+- PHP 8.3
+- Symfony 7.3
+
 ## Activité
 
 Auteur    | Semaine | Commits|     + |     - | Files |
