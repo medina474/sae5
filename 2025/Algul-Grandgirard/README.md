@@ -7,7 +7,8 @@
 ## Rendus
 
 - [Benchmark](algul-grandgirard-benchmark.md)
-- [Cahier des charges technique](algul-grandgirard-technique.md)
+- [Proposition technique](algul-grandgirard-technique.md)
+- [Proposition financière](algul-grandgirard-devis.md)
 
 ## Activité
 

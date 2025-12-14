@@ -6,8 +6,9 @@
 
 ## Rendus
 
-- [Benchmark](algul-grandgirard-benchmark.md)
-- [Cahier des charges technique](algul-grandgirard-technique.md)
+- [Benchmark](alvariza-kany-benchmark.md)
+- [Proposition technique](alvariza-kany-technique.md)
+- [Proposition financière](alvariza-kany-devis.md)
 
 ## Activité
 

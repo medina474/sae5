@@ -6,7 +6,8 @@
 ## Rendus
 
 - [Benchmark](gailliegue-vincent-benchmark.md)
-- [Cahier des charges technique](gailliegue-vincent-technique.md)
+- [Proposition technique](gailliegue-vincent-technique.md)
+- [Proposition financière](gailliegue-vincent-devis.md)
 
 ## Activité
 

@@ -7,7 +7,9 @@
 ## Rendus
 
 - [Benchmark](cognet-benchmark.md) Cognets
-- [Cahier des charges technique](cognet-barba-technique.md)
+- [Proposition technique](cognet-barba-technique.md)
+- [Proposition financière](cognet-barba-devis.md)
+- [Analyse financière](cognet-barba-devis-interne.md)
 
 ## Activité
 

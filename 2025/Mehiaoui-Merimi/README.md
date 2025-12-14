@@ -4,6 +4,13 @@
 - Node.js 20
 - Express
 
+## Rendus
+
+- [Benchmark](mehiaoui-benchmark.md)
+- [Proposition technique](mehiaoui-merimi-technique.md)
+- [Proposition financière](mehiaoui-merimi-devis.md)
+- [Analyse financière](mehiaoui-merimi-cout.md)
+
 ## Activité
 
 Auteur    | Semaine | Commits|     + |     - | Files |

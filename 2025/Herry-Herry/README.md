@@ -7,7 +7,8 @@
 ## Rendus
 
 - [Benchmark](herry-herry-benchmark.md)
-- [Cahier des charges technique](herry-herry-technique.md)
+- [Proposition technique](herry-herry-technique.md)
+- [Proposition financière](herry-herry-devis.md)
 
 ## Activité
 

@@ -14,6 +14,9 @@ Calendrier            | ✅
 ## Rendus
 
 - [Benchmark](philippon-ratti-benchmark.pdf)
+- [Proposition technique](philippon-ratti-technique.pdf)
+- [Proposition financière](philippon-ratti-devis-externe.pdf)
+- [Analyse financière](philippon-ratti-devis-interne.pdf)
 
 ## Activité
 

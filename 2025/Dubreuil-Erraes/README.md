@@ -13,7 +13,8 @@ Adhésion         | ✅
 ## Rendus
 
 - [Benchmark](dubreuil-erraes-benchmark.md)
-- [Cahier des charges technique](dubreuil-erraes-technique.md)
+- [Proposition technique](dubreuil-erraes-technique.md)
+- [Proposition financière](dubreuil-erraes-devis.md)
 
 ## Activité
 

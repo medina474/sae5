@@ -7,7 +7,9 @@
 ## Rendus
 
 - [Benchmark](mehraz-rifi-benchmark.pdf)
-- [Cahier des charges technique](mehraz-rifi-technique.md)
+- [Proposition technique](mehraz-rifi-technique.md)
+- [Proposition financière](mehraz-rifi-devis.md)
+- [Analyse financière](mehraz-rifi-devis-interne.md)
 
 ## Activité
 
