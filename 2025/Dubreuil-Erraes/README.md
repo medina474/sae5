@@ -1,6 +1,9 @@
 # DUBREUIL Eliot ; ERRAES Mehdi
 
 - PostgreSQL 18.0
+- PHP 8.2
+- Apache
+
 
 Partie           |Commentaires
 ---              |---
