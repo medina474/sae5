@@ -473,7 +473,7 @@ COGNET Mattheo ; BECERRA BARBA Erik <sup>(IP)</sup>|[Voir](2025/Cognet-Becerra/)
 
 Groupe | Dépôt
 ---    |---
-COLIN Gabin ; DE RYCKE Leanne | https://gitlab.univ-lorraine.fr/derycke4u/sae-5-colin-derycke</td>
+COLIN Gabin ; DE RYCKE Leanne | https://gitlab.univ-lorraine.fr/derycke4u/sae-5-colin-derycke
 DESERT Romain ; NIRRENGARTEN Tom | https://github.com/Rom444d/SAE-5
 
 ### Apprentis Poursuite d'Études (4 groupes)
