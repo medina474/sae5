@@ -3,7 +3,8 @@
 - PostgreSQL 18.0
 - PHP 8.2
 - Apache
-
+- Bootstrap 5.3.0
+- Cloudflare
 
 Partie           |Commentaires
 ---              |---

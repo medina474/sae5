@@ -3,6 +3,13 @@
 - MySQL 8.0
 - PHP 8.3
 - Symfony 7.3
+  - Twig
+  - Doctrine
+- Bootstrap 5.3.3
+- Leaflet
+  - OpenStreetMap
+- Leaflet Routing Machine
+  - OSRM
 
 ## Rendus
 

@@ -3,6 +3,8 @@
 - MySQL 8.0
 - Node.js 18
 - Express
+- Bootstrap 5.3.3
+  - CoreUI 5.0.0
 
 ## Rendus
 
