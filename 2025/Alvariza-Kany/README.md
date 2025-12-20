@@ -23,7 +23,7 @@ Partie |Commentaires
 ---    |---
 Page d'accueil   | ✅
 Liste des dépôts | ✅ Liste
-Module tournée   | Loin d'être terminé
+Module tournée   | ✅
 Calendriers      | ❌
 
 Auteur    | Semaine | Commits|     + |     - | Files |
@@ -48,6 +48,8 @@ Kany      |2025-43  |      0 |     0 |     0 |     0 |
 Kany      |2025-44  |      0 |     0 |     0 |     0 |
 Kany      |2025-45  |      7 |166392 | 23103 |  1199 |
 Kany      |2025-46  |      7 |  1977 |144690 |   949 |
-Kany      |TOTAL    |     24 |192383 |167879 |  2203 |
+Kany      |2025-50  |      1 |     3 |     0 |     3 |
+Kany      |2025-51  |     15 |  3211 |  1669 |    36 |
+Kany      |TOTAL    |     40 |192383 | |   |
 ----------|---------|--------|-------|-------|-------|
 DEPOT     |TOTAL    |     31 |197427 |172359 |  1267 |
