@@ -6,6 +6,16 @@
 - Bootstrap 5.3.3
   - CoreUI 5.0.0
 
+Partie | E  | Commentaires
+---    |--- |---
+Page d'accueil           | ✅ |
+Liste des dépôts         | ✅ |
+CRUD Tournées            | ✅ | Retirer les dépôts déjà placés de la liste déroulante. Le glisser-déposer ne semble pas marcher la première fois. L'utiisateur ne doit pas définir le numéro d'ordre à l'insertion.
+Carte                    | ✅ | Puce de couleur, avec numéro, Itinéraire en dehors de la carte en français. Pouvoir modifier l'ordre depuis la carte.
+Calendrier               | ❌ |
+Adhésion                 | ❌ |
+
+
 ## Rendus
 
 - [Benchmark](herry-herry-benchmark.md)

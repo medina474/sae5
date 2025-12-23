@@ -84,11 +84,11 @@ Définir et rédiger une communication commerciale de l'application.
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	8 / 50
 
-### Rendu 3 : Cahier des charges technique
+### Rendu 3 : Proposition technique
 
 Établir un document détaillant les solutions techniques que vous avez retenues pour répondre au besoin du client. Quelle architecture ? Base de données ? Support des applications ? Langage de développement ? Cadriciels utilisés ?
 
-Ne pas oublier : la solution pour la carte, l'itinéraire et le calendrier
+Ne pas oublier : la solution pour la carte, pour l'itinéraire et le calendrier.
 
 Contraintes : Présentation sous forme d'un **diaporama visuellement riche** avec des schémas de l'organisation et du fonctionnement.
 
@@ -420,6 +420,10 @@ B      | 13-16 | Bon : dépasse les normes requises.
 C      | 10-12 | Moyen : correspond aux normes requises.
 D      | 6-9   | Insuffisant : est en dessous des normes, nécessite une amélioration.
 E      | 0-5   | Très Insuffisant : ne répond pas de toute évidence aux normes.
+
+Comportement pro / IA / Rapports réguliers / télétravail / intégration équipe
+Changements adaptation aux nouvelles contraintes, conduite de projet
+conformité technique : nécessaire mais pas suffisant.
 
 ### Pénalités
 

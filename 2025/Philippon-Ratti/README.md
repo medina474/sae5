@@ -2,14 +2,19 @@
 
 - PostgreSQL (17)
 - .Net 9.0
+  - EntityFramework
 - Blazor
+  - MudBlazor
+- Swashbuckle
 
-Partie |Commentaires
----    |---
-Page d'accueil | ✅ Logo un peu gros, problème d'alignement du menu, noms pas lisibles dans en tête
-Liste des dépôts         | ✅ Liste
-CRUD Tournées            | ✅ Liste , bouton trop gros, problème de style, Edit : Sélection des couleur pas intuitive, gros espace blanc sous les couleurs, Zone de saisie peu visible, pas d'espace entre Identifiant et titre du jour de livraison , moitié français moitié anglais ; Monter / Descendre ne fonctionne pas correctement ; Remove ne fonctionne pas ; Erreur dans console lors du changement de dépot
-Calendrier            | ✅
+Partie | E  | Commentaires
+---    |--- |---
+Page d'accueil           | ✅ |
+Liste des dépôts         | ✅ |
+CRUD Tournées            | ✅ |
+Carte                    | ✅ | Puce de couleur, avec numéro, Itinéraire en dehors de la carte
+Calendrier               | ✅ | Visualiser les semaines de fermeture et les jours fériés. Répartir le plus uniformément possible les X calendriers sur l'année. Problème avec plus de 25.
+Adhésion                 | ❌ |
 
 ## Rendus
 

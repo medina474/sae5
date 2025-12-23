@@ -11,6 +11,14 @@
 - Leaflet Routing Machine
   - OSRM
 
+Partie | E  | Commentaires
+---    |--- |---
+Page d'accueil           | ✅ |
+Liste des dépôts         | ✅ |
+CRUD Tournées            | ✅ | Comment modifier le jour d'une tournée
+Carte                    | ✅ |
+Composition paniers      | ❌ |
+
 ## Rendus
 
 - [Benchmark](algul-grandgirard-benchmark.md)
