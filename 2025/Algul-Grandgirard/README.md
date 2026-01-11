@@ -2,14 +2,15 @@
 
 - MySQL 8.0
 - PHP 8.3
-- Symfony 7.3
+- Symfony 7.3 (https://symfony.com/)
   - Twig
   - Doctrine
-- Bootstrap 5.3.3
-- Leaflet
+- Bootstrap 5.3.3 (https://getbootstrap.com/)
+- Leaflet (https://leafletjs.com/)
   - OpenStreetMap
-- Leaflet Routing Machine
+- Leaflet Routing Machine (https://www.liedman.net/leaflet-routing-machine/)
   - OSRM
+- Sortable (https://github.com/SortableJS/Sortable)
 
 Partie | E  | Commentaires
 ---    |--- |---
