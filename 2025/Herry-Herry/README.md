@@ -12,8 +12,8 @@ Page d'accueil           | ✅ |
 Liste des dépôts         | ✅ | Il n'est pas utile d'afficher les coordonnées.
 CRUD Tournées            | ✅ | Le glisser-déposer est un peu étrange, cela effectue une permutation entre 2 dépots et pas une insertion. Le système de traduction est assez lent. Les autres groupes n'en ont pas eu besoin pour avoir l'itinéraire en français. Après ajout le dépot est supprimé de la liste mais reste comme élément sélectionné -> Erreur "déja présent". Le messafe d'erreur est étrangement placé à côté du bouton Modifier.
 Carte                    | ✅ | Puce de couleur, avec numéro, Itinéraire en dehors de la carte en français. Pouvoir modifier l'ordre depuis la carte.
-Calendrier               | ✅ |
-Adhésion                 | ✅ |
+Calendrier               | ✅ | Génération Ok pour 25. Attention pour 16 paniers il faut ne faut pas toutes les 2 semaines mais toutes les 3. (52 / 16) puis arrondi. Pas simple visuellement de se repérer manque peut être le jour de la semaine et le mois écrit en lettre. Cacher effectif (ou prévu) s'il sont identiques. Possibiité d'avoir un champ de type calendrier plutôt que texte pour la modification de la date.
+Adhésion                 | ✅ | La case adhérer est pas assez visible.
 
 
 ## Rendus
