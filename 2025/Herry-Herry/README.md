@@ -9,11 +9,11 @@
 Partie | E  | Commentaires
 ---    |--- |---
 Page d'accueil           | ✅ |
-Liste des dépôts         | ✅ |
-CRUD Tournées            | ✅ | Retirer les dépôts déjà placés de la liste déroulante. Le glisser-déposer ne semble pas marcher la première fois. L'utiisateur ne doit pas définir le numéro d'ordre à l'insertion.
+Liste des dépôts         | ✅ | Il n'est pas utile d'afficher les coordonnées.
+CRUD Tournées            | ✅ | Le glisser-déposer est un peu étrange, cela effectue une permutation entre 2 dépots et pas une insertion. Le système de traduction est assez lent. Les autres groupes n'en ont pas eu besoin pour avoir l'itinéraire en français. Après ajout le dépot est supprimé de la liste mais reste comme élément sélectionné -> Erreur "déja présent". Le messafe d'erreur est étrangement placé à côté du bouton Modifier.
 Carte                    | ✅ | Puce de couleur, avec numéro, Itinéraire en dehors de la carte en français. Pouvoir modifier l'ordre depuis la carte.
-Calendrier               | ❌ |
-Adhésion                 | ❌ |
+Calendrier               | ✅ |
+Adhésion                 | ✅ |
 
 
 ## Rendus
