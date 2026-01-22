@@ -466,7 +466,7 @@ Par exemple rendre un texte rédigé à la place d’un diaporama, un script sql
 - Pour le développement local ajouter une image _oneshot_ pour effectuer l'installation des dépendances
 - Utiliser un réseau interne pour la communication entre services
 - Si vous avez différents services à exposer, n'utiliser pas des ports multiples mais un [reverse proxy](https://sources.neotech.fr/Universite/tp/src/branch/main/reverse_proxy.md)
-- Ajouter un fichier _.gitignore_ adapté pour éviter d'inclure les fichiers temporaires ou cache à votre dépôt, cela augmente artificiellement le nombre de fichiers validés.
+- Ajouter un fichier _.gitignore_ adapté pour éviter d'inclure les fichiers temporaires ou cache à votre dépôt, cela augmente artificiellement le nombre de fichiers validés. Si vous validez des dizaines de fichiers c'est qu'il y a un problème.
 - Configurer votre dépôt git avec votre nom et votre adresse universitaire. Une seule adresse sera utilisée pour les statistiques de contribution au dépôt.
 
 ```

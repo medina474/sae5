@@ -4,6 +4,21 @@
 - PHP 8.2
 - Laravel 12
 
+Impossible de tester. :skull:
+
+<span style="font-size:48px; vertical-align:middle">☠</span> Class "L5Swagger\Generator" not found
+
+:warning: Des fichiers sont systématiquement modifiés et ajoutés au dépôt à chaque lancement.
+
+Partie | E  | Commentaires
+---    |--- |---
+Page d'accueil           | ❌ |
+Liste des dépôts         | ❌ |
+CRUD Tournées            | ❌ |
+Carte                    | ❌ |
+Composition des paniers  | ❌ |
+
+
 ## Rendus
 
 - [Benchmark](mehraz-rifi-benchmark.pdf)
