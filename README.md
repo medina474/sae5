@@ -511,7 +511,7 @@ DESERT Romain ; NIRRENGARTEN Tom | https://github.com/Rom444d/SAE-5
 
 Groupe | Dépôt
 ---    |---
-GIL Jérémie ; PETRAZOLLER Johan |
-NGUYEN Quang-Liem ; RALLI	Clément |
+GIL Jérémie ; PETRAZOLLER Johan | https://github.com/LeviLout/SAE5_COCAGNE_GIL_PETRAZOLLER
+NGUYEN Quang-Liem ; RALLI	Clément | https://github.com/JustL0ading/NGUYEN-RALLI-SAE5-Cocagne
 DUFOUR Louise ; MARTIN Mathis |
 ROBAIL Alexandre | https://gitlab.com/alexandre1133450/sae-5.git

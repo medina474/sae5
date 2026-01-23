@@ -4,9 +4,9 @@
 - PHP 8.2
 - Laravel 12
 
-Impossible de tester. :skull:
+Impossible de tester.
 
-<span style="font-size:48px; vertical-align:middle">☠</span> Class "L5Swagger\Generator" not found
+☠ Class "L5Swagger\Generator" not found
 
 :warning: Des fichiers sont systématiquement modifiés et ajoutés au dépôt à chaque lancement.
 
