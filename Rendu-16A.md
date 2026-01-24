@@ -1,4 +1,4 @@
-# Rendu 16 : Développement Back-office 2
+# Rendu 16 : Développement Back-office 2a
 
 - **Étudiants concernés :** formation initiale parcours insertion professionnelle
 
@@ -18,6 +18,13 @@ L'administrateur choisi :
 Attention une livraison du vendredi ne peut pas être décalée au samedi c'est obligatoirement le jour avant. Et le lundi ne peut pas être décalé au dimanche c'est obligatoirement le jour après.
 
 Vérifier l'algorithme avec 25, 20 et 17 paniers.
+
+## Documents fournis
+
+- [Planning du mardi](plannings/Planning%20mardi.pdf)
+- [Planning du mercredi](plannings/Planning%20mercredi.pdf)
+- [Planning du vendredi](plannings/Planning%20vendredi.pdf)
+- [Exemple d'interface](planning/Planning.pdf)
 
 ## Nouveauté 2026
 

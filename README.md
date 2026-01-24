@@ -229,23 +229,10 @@ Concevoir l'interface permettant de créer les tournées de livraison. Sur une c
 
 ### Rendu 16 : Développement Back-office 2
 
-- [Sujet A](Rendu-16A.md) pour les étudiants en formation initiale, parcours insertion professionnelle.
+- [Sujet A](Rendu-16A.md) pour les étudiants du parcours insertion professionnelle.
+- [Sujet B](Rendu-16B.md) pour les étudiants du parcours poursuite d'études
 
-
-
-
-
-- [Planning du mardi](plannings/Planning%20mardi.pdf)
-- [Planning du mercredi](plannings/Planning%20mercredi.pdf)
-- [Planning du vendredi](plannings/Planning%20vendredi.pdf)
-- [Exemple d'interface](planning/Planning.pdf)
-
-#### Sujet B
-
-Conception d'un outil permettant de créer la composition des paniers. Il existe plusieurs types de paniers. Chaque mois les jardins possède un stock de légumes. Il faut répartir les légumes dans les paniers de façon à écouler le stock au mieux tout en garantissant la valeur du panier.
-
-- **Étudiants concernés :** formation initiale parcours poursuite d'études
-
+- **Étudiants concernés :** formation initiale
 - **Correcteur :** Emmanuel Medina
 - **Compétence :** 1 - Réaliser
 - **Coefficients :** 12/50
