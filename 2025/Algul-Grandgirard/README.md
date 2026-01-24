@@ -16,9 +16,15 @@ Partie | E  | Commentaires
 ---    |--- |---
 Page d'accueil           | ✅ |
 Liste des dépôts         | ✅ |
-CRUD Tournées            | ✅ | Comment modifier le jour d'une tournée
+CRUD Tournées            | ✅ |
 Carte                    | ✅ |
-Composition paniers      | ❌ |
+Composition paniers      | ✅ |
+
+Commentaires :
+Le css de l'application est réalisé avec bootstrap inclus via cdn; Beaucoup de css perso directement dans les templates.
+Aspect fini et trés complet. Pas de front
+
+Interface génération de la composition des paniers : soignée. Nombre de panier à préparer. Visu des stocks. Détail des paniers constitués avec prix. Attention les articles à l'unité ne peuvent pas être divisés. Respect des fruits et légumes
 
 ## Rendus
 
