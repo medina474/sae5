@@ -455,21 +455,21 @@ git config user.email prenom.nom3@etu.univ-lorraine.fr
 
 Groupe | Dossier | Dépôt
 ---    |---      |---
-PHILIPPON-CHAMPROUX Florentin ; RATTI Martin|[Voir](2025/Philippon-Ratti/) | https://github.com/flo0s/Cocagne
-MATEJKA Milan ; MAURICE Simon|[Voir](2025/Matejka-Maurice/) | https://github.com/VoidOma/SAE5_Developpement_avance
-ALVARIZA BILLAR Felipe ; KANY Thomas|[Voir](2025/Alvariza-Kany/) | https://github.com/tureisss/Sae5_Jardin_de_Cocagne
-DUBREUIL Eliot ; ERRAES Mehdi|[Voir](2025/Dubreuil-Erraes/) | https://gitlab.univ-lorraine.fr/erraes5u/sae-5
-MEHIAOUI Mohamed ; MERIMI Ayat|[Voir](2025/Mehiaoui-Merimi/) | https://github.com/MehiaouiMoh/SAE5_JardinCocagne
-HERRY Elwyn ; HERRY	Matteo|[Voir](2025/Herry-Herry/) | https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
+PHILIPPON-CHAMPROUX Florentin ; RATTI Martin|8001|[Voir](2025/Philippon-Ratti/) | https://github.com/flo0s/Cocagne
+MATEJKA Milan ; MAURICE Simon|8002|[Voir](2025/Matejka-Maurice/) | https://github.com/VoidOma/SAE5_Developpement_avance
+ALVARIZA BILLAR Felipe ; KANY Thomas|8003|[Voir](2025/Alvariza-Kany/) | https://github.com/tureisss/Sae5_Jardin_de_Cocagne
+DUBREUIL Eliot ; ERRAES Mehdi|8004|[Voir](2025/Dubreuil-Erraes/) | https://gitlab.univ-lorraine.fr/erraes5u/sae-5
+MEHIAOUI Mohamed ; MERIMI Ayat|8005|[Voir](2025/Mehiaoui-Merimi/) | https://github.com/MehiaouiMoh/SAE5_JardinCocagne
+HERRY Elwyn ; HERRY	Matteo|8006|[Voir](2025/Herry-Herry/) | https://github.com/MoaKarov/Herry_Matteo_Herry_Elwyn_Sae5
 
 ### Poursuite d'études (4 groupes)
 
 Groupe | Dossier | Dépôt
 ---    |---      |---
-GAILLIEGUE Ewan ; VINCENT Teo|[Voir](2025/Gailliegue-Vincent/) | https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
-MEHRAZ Chayimaa ; RIFI ZAYNAB|[Voir](2025/Mehraz-Rifi/) | https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
-ALGUL Sefer ; GRANDGIRARD Louis|[Voir](2025/Algul-Grandgirard/) | https://gitlab.univ-lorraine.fr/algul12u/sae-s5
-COGNET Mattheo ; BECERRA BARBA Erik <sup>(IP)</sup>|[Voir](2025/Cognet-Becerra/) | https://github.com/MattheoCo/JardinDeCocagne
+GAILLIEGUE Ewan ; VINCENT Teo|8007|[Voir](2025/Gailliegue-Vincent/) | https://github.com/EwanGailliegue/Les-Jardins-de-Cocagne
+MEHRAZ Chayimaa ; RIFI ZAYNAB|8008|[Voir](2025/Mehraz-Rifi/) | https://github.com/Chayimaa/SEA5-RIFI-MEHRAZ
+ALGUL Sefer ; GRANDGIRARD Louis|8009|[Voir](2025/Algul-Grandgirard/) | https://gitlab.univ-lorraine.fr/algul12u/sae-s5
+COGNET Mattheo ; BECERRA BARBA Erik <sup>(IP)</sup>|8010|[Voir](2025/Cognet-Becerra/) | https://github.com/MattheoCo/JardinDeCocagne
 
 
 ### Apprentis Insertion professionnelle (2 groupes)
@@ -485,5 +485,27 @@ Groupe | Dépôt
 ---    |---
 GIL Jérémie ; PETRAZOLLER Johan | https://github.com/LeviLout/SAE5_COCAGNE_GIL_PETRAZOLLER
 NGUYEN Quang-Liem ; RALLI	Clément | https://github.com/JustL0ading/NGUYEN-RALLI-SAE5-Cocagne
-DUFOUR Louise ; MARTIN Mathis |
+DUFOUR Louise ; MARTIN Mathis | https://github.com/loudfr/SAE5-jardinscocagne
 ROBAIL Alexandre | https://gitlab.com/alexandre1133450/sae-5.git
+
+
+
+NOTES pour 2026
+
+- NE PAS METTRE DE MOT DE PASSE A L'ADMINISTRATION !!!! Pas d'accès pas de note
+- Pas de vidéo à la soutenance
+- A la soutenance préciser l'IA utilisée
+- Montrer l'API. Avec quoi l'API est elle faite ?
+- Montrer le résultat des tests ?
+- Nom des conteneur pour éviter les collisions
+- Respect des fruits/légumes pour la constitution des paniers
+- API pour geocodage de l'adresse
+- Passer le site en production pour l'oral
+
+Pas de container_name: dans les services
+name: dans root
+pas de version dans root;
+ne pas exposer le port de la base de données en production
+- Attribuer un n° de port différent par projet pour comparaison simultanée
+Utiliser un fichier .env pour le port de l'application
+Utiliser une notation pour les commits docker:
