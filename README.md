@@ -73,7 +73,7 @@ Contraintes : Répertorier des acteurs locaux non français, anglophones de pr�
 - **Correctrice :** Aline Caspary
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	7 / 50 (3.5 / 50 pour l'écrit - 3.5 / 50 pour l'oral)
-- **Date de rendu:** [16/09/2025](https://arche.univ-lorraine.fr/mod/assign/view.php?id=1622610)
+- **Date de rendu:** [xx/xx/2026](https://arche.univ-lorraine.fr/mod/assign/view.php?id=1622610)
 
 ### Rendu 2 : Communication commerciale
 
@@ -83,6 +83,7 @@ Définir et rédiger une communication commerciale de l'application.
 - **Correctrice :** Alexandra Doennlen
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	8 / 50
+- **Date de rendu:** [xx/xx/2026]
 
 ### Rendu 3 : Proposition technique
 
@@ -96,7 +97,7 @@ Contraintes : Présentation sous forme d'un **diaporama visuellement riche** av
 - **Correcteur :** Emmanuel Medina
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	7 / 50
-- **Date de rendu:** [15/10/2025](https://arche.univ-lorraine.fr/mod/assign/view.php?id=1720363)
+- **Date de rendu:** [xx/xx/2025](https://arche.univ-lorraine.fr/mod/assign/view.php?id=1720363)
 
 ### Rendu 4 : Proposition financière
 
@@ -109,6 +110,7 @@ Contraintes : Mise en place d'outil de gestion de projet permettant de quantifi
 - **Correcteur :** Boris Davin
 - **Compétence :** 6 - Collaborer
 - **Coefficients :** 	7 / 50
+- **Date de rendu:** xx/xx/2026
 
 ### Rendu 5 : Gestion de projet
 
