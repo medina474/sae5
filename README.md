@@ -273,9 +273,9 @@ ___
 <table>
 <tr>
   <td>N°</td><td>Compétences</td>
-  <td colspan="4" text-align="center">Compétence 1 (50)</td>
-  <td colspan="4" text-align="center">Compétence 2 (50)</td>
-  <td colspan="4" text-align="center">Compétence 6 (50)</td>
+  <td colspan="4" text-align="center">Compétence 1 (50)<br><small>Adapter des applications sur un ensemble de supports</small></td>
+  <td colspan="4" text-align="center">Compétence 2 (50)<br><small>Analyser et optimiser des applications</small></td>
+  <td colspan="4" text-align="center">Compétence 6 (50)<br><small>Manager une équipe informatique</small></td>
 </tr>
 <tr><td></td><td>Situation</td>
   <td colspan="2" text-align="center">FI</td><td colspan="2" text-align="center">App</td>
