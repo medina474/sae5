@@ -1,4 +1,4 @@
-# Rendu 16 : Développement Back-office 2a
+# Rendu 16a : Développement Back-office 2a
 
 - **Étudiants concernés :** formation initiale parcours insertion professionnelle
 
@@ -19,6 +19,10 @@ Attention une livraison du vendredi ne peut pas être décalée au samedi c'est 
 
 Vérifier l'algorithme avec 25, 20 et 17 paniers.
 
+## Nouveauté 2026
+
+- Mettre en place un test unitaire qui vérifie les conditions.
+
 ## Documents fournis
 
 - [Planning du mardi](plannings/Planning%20mardi.pdf)
@@ -26,6 +30,17 @@ Vérifier l'algorithme avec 25, 20 et 17 paniers.
 - [Planning du vendredi](plannings/Planning%20vendredi.pdf)
 - [Exemple d'interface](planning/Planning.pdf)
 
-## Nouveauté 2026
 
-Mettre en place un test unitaire qui vérifie les conditions suivantes :
+# Rendu 16b : Développement Back-office 2b
+
+- **Étudiants concernés :** formation initiale parcours poursuite d'études
+
+Conception d'un outil permettant de créer la composition des paniers. Il existe plusieurs types de paniers. Chaque mois les jardins possède un stock de légumes. Il faut répartir les légumes dans les paniers de façon à écouler le stock au mieux tout en garantissant la valeur du panier.
+
+Paragraphe 13 du cahier des charges
+
+# Rendu 16c : Robotique 1
+
+# Rendu 16d : Robotique 2
+
+# Rendu 16e : Développement Météo/Lune
