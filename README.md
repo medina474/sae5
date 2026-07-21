@@ -241,7 +241,7 @@ Concevoir l'interface permettant de créer les tournées de livraison. Sur une c
 
 ### Rendu 17 : Développement Front Office
 
-Concevoir la partie font office de l'application c'est à dire l'inscription des adhérents et le tunnel de commande  permettant à un adhérent de choisir un abonnement et son point de dépôt.
+- [Sujet A](rendus/Rendu-17.md)
 
 - **Étudiants concernés :** formation initiale parcours insertion professionnelle
 - **Correcteur :** Emmanuel Medina
