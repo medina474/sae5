@@ -222,7 +222,7 @@ ___
 
 ### Rendu 15 : Développement Back-office 1
 
-Concevoir l'interface permettant de créer les tournées de livraison. Sur une carte dessiner l'itinéraire de la tournée en fonction des dépôts sélectionnés pour faire partie de cette livraison.
+- [Sujet A](rendus/Rendu-15.md)
 
 - **Étudiants concernés :** formation initiale
 - **Correcteur :** Emmanuel Medina
@@ -231,8 +231,8 @@ Concevoir l'interface permettant de créer les tournées de livraison. Sur une c
 
 ### Rendu 16 : Développement Back-office 2
 
-- [Sujet A](Rendu-16A.md) pour les étudiants du parcours insertion professionnelle.
-- [Sujet B](Rendu-16B.md) pour les étudiants du parcours poursuite d'études
+- [Sujet A](rendus/Rendu-16.md) pour les étudiants du parcours insertion professionnelle.
+- [Sujet B](rendus/Rendu-16.md##rendu-16--développement-back-office-2b) pour les étudiants du parcours poursuite d'études
 
 - **Étudiants concernés :** formation initiale
 - **Correcteur :** Emmanuel Medina
@@ -496,3 +496,4 @@ ne pas exposer le port de la base de données en production
 - Attribuer un n° de port différent par projet pour comparaison simultanée
 Utiliser un fichier .env pour le port de l'application
 Utiliser une notation pour les commits docker:
+tests unitaires
