@@ -1,4 +1,6 @@
-# Rendu 16a : Développement Back-office 2a
+# Rendu 16
+
+## Sujet A : Développement Back-office 2a
 
 - **Étudiants concernés :** formation initiale parcours insertion professionnelle
 
@@ -31,7 +33,7 @@ Vérifier l'algorithme avec 25, 20 et 17 paniers.
 - [Exemple d'interface](planning/Planning.pdf)
 
 
-# Rendu 16b : Développement Back-office 2b
+# Sujet B : Développement Back-office
 
 - **Étudiants concernés :** formation initiale parcours poursuite d'études
 
@@ -39,10 +41,10 @@ Conception d'un outil permettant de créer la composition des paniers. Il existe
 
 Paragraphe 13 du cahier des charges
 
-# Rendu 16c : Robotique 1
+## Sujet C : Robotique 1
 
-# Rendu 16d : Robotique 2
+## Sujet D : Robotique 2
 
-# Rendu 16e : Développement Météo/Lune
+## Sujet E : Développement Météo/Lune
 
-# Rendu 16f : Serveur cartographique
+## Sujet F : Serveur cartographique
